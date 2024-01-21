@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "63084413831c1892e34cb5a7"
+  },
+  "name": "DSTel",
+  "logo": "https://graph.metaserv.vn/public/partner/logos/b3c5da109e47dfff7730d2d580ff7328",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63084439831c1892e34cb5af"
+  },
+  "name": "California",
+  "logo": "https://graph.metaserv.vn/public/partner/logos/d50f764fe7f18f2ab241326e55fd91ae",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63084447831c1892e34cb5d7"
+  },
+  "name": "Satra Foods",
+  "logo": "https://graph.metaserv.vn/public/partner/logos/47548ad6fe1ea2098452da627e1b592a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63084467831c1892e34cb5e5"
+  },
+  "name": "Wizlynx group",
+  "logo": "https://graph.metaserv.vn/public/partner/logos/a858d906c329e0f3ac352b2cb996c3aa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6308447f831c1892e34cb5ed"
+  },
+  "name": "Fujitsu",
+  "logo": "https://graph.metaserv.vn/public/partner/logos/856080319c8e3386779a3642c68a9857",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6308448a831c1892e34cb5f1"
+  },
+  "name": "HGC Global",
+  "logo": "https://graph.metaserv.vn/public/partner/logos/1d3c74cb531d0bad94f7f52463295c05",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6308449b831c1892e34cb5f5"
+  },
+  "name": "Hanel",
+  "logo": "https://graph.metaserv.vn/public/partner/logos/3c63c167ca48d1f493d948308615813d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630844a6831c1892e34cb5f9"
+  },
+  "name": "Nexon",
+  "logo": "https://graph.metaserv.vn/public/partner/logos/ea3669b624b743a345aa8aba1b5a2fd0",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630844af831c1892e34cb5fd"
+  },
+  "name": "CircleK",
+  "logo": "https://graph.metaserv.vn/public/partner/logos/736658c698145f25e71ab729e6924c06",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63086767831c1892e34cb7b5"
+  },
+  "name": "UL HCMC",
+  "logo": "https://graph.metaserv.vn/public/partner/logos/e18928dd7f632c97875bef2b71fb8ee4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63086777831c1892e34cb7b9"
+  },
+  "name": "Chailease",
+  "logo": "https://graph.metaserv.vn/public/partner/logos/c7c3707c146e532faf518fac5894a5a1",
+  "__v": 0
+}]

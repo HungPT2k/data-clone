@@ -1,0 +1,198 @@
+[{
+  "_id": {
+    "$oid": "630f3494bdccf160d9d47d3e"
+  },
+  "name": "MetaServ. Cloud S02",
+  "defaultPrice": 760000,
+  "salePrice": 0,
+  "currency": "VNĐ",
+  "unit": "Tháng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630f349ebdccf160d9d47d43"
+  },
+  "name": "MetaServ. Cloud S03",
+  "defaultPrice": 1030000,
+  "salePrice": 0,
+  "currency": "VNĐ",
+  "unit": "Tháng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630f34bebdccf160d9d47d48"
+  },
+  "name": "T2.Mem Burst 01",
+  "defaultPrice": 1800000,
+  "salePrice": 0,
+  "currency": "VNĐ",
+  "unit": "Tháng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630f34ccbdccf160d9d47d4d"
+  },
+  "name": "MetaServ. Cloud S04",
+  "defaultPrice": 1830000,
+  "salePrice": 0,
+  "currency": "VNĐ",
+  "unit": "Tháng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630f34debdccf160d9d47d52"
+  },
+  "name": "MetaServ. Cloud S05",
+  "defaultPrice": 2360000,
+  "salePrice": 0,
+  "currency": "VNĐ",
+  "unit": "Tháng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630f34e9bdccf160d9d47d57"
+  },
+  "name": "MetaServ. Cloud S06",
+  "defaultPrice": 3030000,
+  "salePrice": 0,
+  "currency": "VNĐ",
+  "unit": "Tháng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630f34f5bdccf160d9d47d5c"
+  },
+  "name": "T2.Gen 07",
+  "defaultPrice": 5000000,
+  "salePrice": 0,
+  "currency": "VNĐ",
+  "unit": "Tháng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630f3514bdccf160d9d47d61"
+  },
+  "name": "T2.Mem Burst 02",
+  "defaultPrice": 5500000,
+  "salePrice": 0,
+  "currency": "VNĐ",
+  "unit": "Tháng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630f3520bdccf160d9d47d66"
+  },
+  "name": "T2.Mem Burst 03",
+  "defaultPrice": 7300000,
+  "salePrice": 0,
+  "currency": "VNĐ",
+  "unit": "Tháng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630f3530bdccf160d9d47d6b"
+  },
+  "name": "T2.Gen 08",
+  "defaultPrice": 8300000,
+  "salePrice": 0,
+  "currency": "VNĐ",
+  "unit": "Tháng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630f353abdccf160d9d47d70"
+  },
+  "name": "T2.Gen 09",
+  "defaultPrice": 13000000,
+  "salePrice": 0,
+  "currency": "VNĐ",
+  "unit": "Tháng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630f354bbdccf160d9d47d75"
+  },
+  "name": "T2.Mem Burst 04",
+  "defaultPrice": 14000000,
+  "salePrice": 0,
+  "currency": "VNĐ",
+  "unit": "Tháng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630f3554bdccf160d9d47d7a"
+  },
+  "name": "T2.Mem Burst 05",
+  "defaultPrice": 21000000,
+  "salePrice": 0,
+  "currency": "VNĐ",
+  "unit": "Tháng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630f355fbdccf160d9d47d7f"
+  },
+  "name": "T2.Mem Burst 06",
+  "defaultPrice": 27500000,
+  "salePrice": 0,
+  "currency": "VNĐ",
+  "unit": "Tháng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63204d43bdccf160d9d4da7c"
+  },
+  "name": "MetaServ. Cloud S01",
+  "defaultPrice": 500000,
+  "salePrice": 0,
+  "currency": "VNĐ",
+  "unit": "Tháng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656d3c0f913b79f425a2cf0f"
+  },
+  "name": "VPS Siêu rẻ 1",
+  "defaultPrice": 75000,
+  "salePrice": 75000,
+  "currency": "VNĐ",
+  "unit": "Tháng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656d43c1913b79f425a2d02c"
+  },
+  "name": "VPS Siêu rẻ 2",
+  "defaultPrice": 300000,
+  "salePrice": 300000,
+  "currency": "VNĐ",
+  "unit": "Tháng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656d43d3913b79f425a2d031"
+  },
+  "name": "VPS Siêu rẻ 3",
+  "defaultPrice": 450000,
+  "salePrice": 450000,
+  "currency": "VNĐ",
+  "unit": "Tháng",
+  "__v": 0
+}]

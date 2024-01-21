@@ -1,0 +1,298 @@
+[{
+  "_id": {
+    "$oid": "63157d5dbdccf160d9d48b1b"
+  },
+  "key": "metaserv-server-storage",
+  "intro": "Máy chủ, lưu trữ",
+  "title": "Server & Storage",
+  "description": "<p><span style=\"color: rgb(51, 57, 67);\">Máy chủ (Server) là một hệ thống bao gồm phần cứng máy tính, có năng lực xử lý cao, có IP tĩnh, có kết nối Internet nhằm mục đích cung cấp dịch vụ mạng. Chức năng chính của máy chủ là hỗ trợ doanh nghiệp cung cấp lưu trữ tài nguyên, thông tin theo yêu cầu.</span></p><p><br></p><p><span style=\"color: rgb(51, 57, 67);\">Máy chủ lưu trữ (Storage) là máy chủ có năng lực lưu trữ lớn, phục vụ cho việc lưu lại các tài nguyên nội bộ của một doanh nghiệp. Tài nguyên sẽ được máy chủ bảo mật, quản lý, truy cập tài nguyên và dữ liệu thông qua một shared network hoặc mạng internet.</span></p>",
+  "advantages": [
+    {
+      "$oid": "63c5ff52a555ee592aaa07c7"
+    },
+    {
+      "$oid": "63c5ff59a555ee592aaa07cc"
+    },
+    {
+      "$oid": "63c5ff5fa555ee592aaa07d1"
+    }
+  ],
+  "__v": 0,
+  "banner": "https://graph.metaserv.vn/public/solution/banners/419424a488bce42bae711e272015d2b8",
+  "category": {
+    "$oid": "632834115007b474be4e5592"
+  },
+  "services": [
+    {
+      "$oid": "63c50e10a555ee592aa9fed6"
+    },
+    {
+      "$oid": "63c50e15a555ee592aa9fede"
+    },
+    {
+      "$oid": "63c50e24a555ee592aa9fee6"
+    },
+    {
+      "$oid": "63c50e29a555ee592aa9feee"
+    },
+    {
+      "$oid": "63c50e2ea555ee592aa9fef6"
+    },
+    {
+      "$oid": "63c50e3ba555ee592aa9fefe"
+    },
+    {
+      "$oid": "63c50e40a555ee592aa9ff06"
+    }
+  ],
+  "isContact": false
+},
+{
+  "_id": {
+    "$oid": "63157e2cbdccf160d9d48b62"
+  },
+  "key": "metaserv-backup",
+  "intro": "Giải pháp sao lưu, dự phòng dữ liệu quan trọng",
+  "title": "Backup",
+  "description": "<p>Backup dữ liệu là hình thức sao chép toàn bộ dữ liệu gốc trên máy chủ hoặc máy tính cá nhân, thiết bị di động,… để lưu trữ vào nơi khác phòng khi xảy ra các sự cố như thiết bị hư hỏng, virus,… mà dữ liệu không mất đi. Dữ liệu sẽ được sao chép thành một phiên bản tương tự như bản gốc. Khi bị mất dữ liệu do bị tấn công, sập nguồn, ổ cứng hỏng,… thì khách hàng vẫn có bản dữ liệu đã được backup để restore (khôi phục) lại.</p><p><br></p><p>Veeam Backup là một phần mềm được phát triển bởi Veeam Software. Nó có khả năng sao lưu, khôi phục và sao chép dữ liệu trên VM (máy ảo). Veeam Backup có thể phục hồi dưới 15 phút cho mọi ứng dụng. Phần mềm này dùng khả năng tăng tốc độ mạng WAN để sao chép dữ liệu ngoài website, nhanh hơn so với truyền dữ liệu thô khoảng 50 lần.</p><p>Veeam Backup còn có thể bảo vệ, khôi phục ứng dụng và các tệp cho môi trường như SharePoint và Exchange. Phần mềm này cũng có khả năng phục hồi cấp độ giao dịch của CSDL Oracle và Microsoft SQL.</p>",
+  "advantages": [
+    {
+      "$oid": "63c5ff85a555ee592aaa07e7"
+    },
+    {
+      "$oid": "63c5ff8aa555ee592aaa07ec"
+    },
+    {
+      "$oid": "63c5ff96a555ee592aaa07f2"
+    }
+  ],
+  "__v": 0,
+  "banner": "https://graph.metaserv.vn/public/solution/banners/40539f995e3643872bb35c8709d76598",
+  "category": {
+    "$oid": "632834255007b474be4e5597"
+  },
+  "services": [
+    {
+      "$oid": "63c50e75a555ee592aa9ff2e"
+    },
+    {
+      "$oid": "63c50e70a555ee592aa9ff26"
+    },
+    {
+      "$oid": "63c50e6ba555ee592aa9ff1e"
+    }
+  ],
+  "isContact": false
+},
+{
+  "_id": {
+    "$oid": "633046b7c861145f3e20c815"
+  },
+  "key": "metaserv-service",
+  "category": {
+    "$oid": "6328343d5007b474be4e559c"
+  },
+  "banner": "https://graph.metaserv.vn/public/solution/banners/743b7360336a361efc9c4ddbeda34c37",
+  "intro": "Dịch vụ điện toán đám mây toàn diện của Amazon",
+  "title": "Amazon Web Services",
+  "description": "<p>Amazon Web Services (AWS) là nền tảng dịch vụ đám mây toàn diện và được sử dụng rộng rãi nhất, cung cấp trên 165 dịch vụ đầy đủ tính năng từ các trung tâm dữ liệu trên toàn thế giới. Nó bao gồm <span style=\"color: rgb(17, 17, 17);\">khả năng tính toán, lưu trữ rất lớn cho toàn hệ thống cơ sở dữ liệu, phân phối nội dung. Cùng với việc thực hiện các chức năng khác sẽ hỗ trợ tối đa cho các doanh nghiệp tiến hành mở rộng và</span> phát triển cơ sở hạ tầng, trở nên linh hoạt hơn và tiết kiệm chi phí hơn.</p>",
+  "advantages": [
+    {
+      "$oid": "63c5fd64a555ee592aaa06c8"
+    },
+    {
+      "$oid": "63c5fd70a555ee592aaa06cd"
+    },
+    {
+      "$oid": "63c5fd86a555ee592aaa06d2"
+    }
+  ],
+  "services": [
+    {
+      "$oid": "63fb8d7ff7b1a22ff4b511af"
+    },
+    {
+      "$oid": "63fb8d85f7b1a22ff4b511b7"
+    },
+    {
+      "$oid": "63fb8e2ef7b1a22ff4b511ee"
+    }
+  ],
+  "__v": 0,
+  "isContact": true
+},
+{
+  "_id": {
+    "$oid": "6330600dc861145f3e20c90d"
+  },
+  "key": "metaserv-vmware",
+  "category": {
+    "$oid": "632834115007b474be4e5592"
+  },
+  "banner": "https://graph.metaserv.vn/public/solution/banners/4078539adcf7727812b6dceba85c846c",
+  "intro": "Ảo hóa tài nguyên máy chủ, máy trạm",
+  "title": "Ảo hóa VMware",
+  "description": "<p>Ảo hóa là công nghệ cho phép khai thác triệt để khả năng hoạt động của các phần cứng trong hệ thống máy chủ bằng cách chạy&nbsp;đồng thời nhiều OS trên cùng lớp vật lý. Việc chia sẻ tài nguyên phần cứng sẽ được quản lý bởi lớp ảo hóa. Lớp ảo hóa nằm giữa như một tầng trung gian giữa phần cứng (hardware) và phần mềm hệ điều hành (OS) giúp quản lý, phân phát tài nguyên phần cứng cho lớp OS ảo hoạt động ở trên.</p><p><br></p><p>Ảo hóa VMware là một phần mềm tạo máy ảo hoạt động trên các hệ điều hành Linux, Windows bằng việc cài đặt trực tiếp trên máy tính hoặc server vật lý. Công nghệ ảo hóa VMware vSphere cho phép xây dựng hạ tầng điện toán đám mây sử dụng nền tảng ESX/ESXi. Với công nghệ ảo hóa thì số lượng máy chủ vật lý sẽ giảm, tiết kiệm được năng lượng tiêu thụ cũng như chi phí về phần cứng, tối ưu hiệu suất của thiết bị.</p>",
+  "advantages": [
+    {
+      "$oid": "63c5ff68a555ee592aaa07d7"
+    },
+    {
+      "$oid": "63c5ff7aa555ee592aaa07dd"
+    },
+    {
+      "$oid": "63c5ff7fa555ee592aaa07e2"
+    }
+  ],
+  "services": [
+    {
+      "$oid": "63c50e8fa555ee592aa9ff4e"
+    },
+    {
+      "$oid": "63c50e8aa555ee592aa9ff46"
+    },
+    {
+      "$oid": "63c50e86a555ee592aa9ff3e"
+    },
+    {
+      "$oid": "63c50e7ea555ee592aa9ff36"
+    }
+  ],
+  "__v": 0,
+  "isContact": false
+},
+{
+  "_id": {
+    "$oid": "63306803c861145f3e20ca28"
+  },
+  "key": "metaserv-google",
+  "category": {
+    "$oid": "6328343d5007b474be4e559c"
+  },
+  "banner": "https://graph.metaserv.vn/public/solution/banners/ec1609b1baeb9ff8092597dc6769b0f4",
+  "intro": "Bộ ứng dụng văn phòng doanh nghiệp của Google",
+  "title": "Google Workspace",
+  "description": "<p>Google Workspace, có thể bạn đã quen thuộc với G Suite – biệt danh trước đây của Google Workspace. Nói một cách đơn giản, Google Workspace là một dạng phát triển hơn của G Suite, bản thân nó đã là một sự phát triển của Google Apps for Domain.</p><p>Tương tự như vậy, Google Workspace cung cấp trải nghiệm phong phú hơn với nhiều tính năng hơn so với các lần lặp lại trước đó của nó. Các ứng dụng hiện có sự tích hợp sâu hơn với nhau thay vì chỉ là một trải nghiệm độc lập.</p><p>Trước đây, tất cả các dịch vụ của Google phải được truy cập riêng biệt vì đó là cách chúng được thiết kế. Với Google Workspace, bạn có được mọi thứ bạn cần ở một nơi – Gmail, Trò chuyện, Lịch, Drive, Gặp gỡ, Tài liệu, Trang tính, Công việc, v.v. – bạn hiểu rõ.&nbsp;</p><p>Sự tích hợp sâu hơn này cho phép các doanh nghiệp cộng tác hiệu quả hơn, thay vì luôn luôn nhảy giữa các ứng dụng.</p>",
+  "advantages": [
+    {
+      "$oid": "63c5fd92a555ee592aaa06d7"
+    },
+    {
+      "$oid": "63c5fd99a555ee592aaa06dc"
+    },
+    {
+      "$oid": "63c5fda1a555ee592aaa06e2"
+    }
+  ],
+  "services": [
+    {
+      "$oid": "63f89358f7b1a22ff4b50437"
+    },
+    {
+      "$oid": "63f89366f7b1a22ff4b5043f"
+    },
+    {
+      "$oid": "63f8936ef7b1a22ff4b50447"
+    }
+  ],
+  "__v": 0,
+  "isContact": true
+},
+{
+  "_id": {
+    "$oid": "63c52b2ca555ee592aaa05d9"
+  },
+  "key": "metaserv-pc",
+  "category": {
+    "$oid": "6328343d5007b474be4e559c"
+  },
+  "banner": "https://graph.metaserv.vn/public/solution/banners/a979ffccaad3ff702f7f1553e1ba8bb9",
+  "intro": "Thiết bị văn phòng đồng bộ hãng Dell",
+  "title": "PC, Laptop & Màn Hình",
+  "description": "<p>Thương hiệu Dell nổi tiếng với các thiết bị văn phòng đồng bộ như máy tính, laptop &amp; màn hình, phục vụ cho các hoạt động kinh doanh của nhân viên &amp; xử lý các công việc của một doanh nghiệp</p>",
+  "advantages": [
+    {
+      "$oid": "63c5ff52a555ee592aaa07c7"
+    },
+    {
+      "$oid": "6320023fbdccf160d9d4cb73"
+    },
+    {
+      "$oid": "63c5fed5a555ee592aaa0777"
+    }
+  ],
+  "services": [
+    {
+      "$oid": "63c50cd4a555ee592aa9fdee"
+    },
+    {
+      "$oid": "63c50ce2a555ee592aa9fdf6"
+    },
+    {
+      "$oid": "63c50d37a555ee592aa9fe26"
+    },
+    {
+      "$oid": "63c50d3ea555ee592aa9fe2e"
+    },
+    {
+      "$oid": "63c50d46a555ee592aa9fe36"
+    },
+    {
+      "$oid": "63c50d4ca555ee592aa9fe3e"
+    },
+    {
+      "$oid": "63c50d52a555ee592aa9fe46"
+    }
+  ],
+  "__v": 0,
+  "isContact": false
+},
+{
+  "_id": {
+    "$oid": "63f860c5f7b1a22ff4b501e2"
+  },
+  "key": "metaserv-microsoft",
+  "category": {
+    "$oid": "6328343d5007b474be4e559c"
+  },
+  "banner": "https://graph.metaserv.vn/public/solution/banners/3558572c531ac13151f7f1e7e2e84cc1",
+  "intro": "Ứng dụng phục vụ hoạt động văn phòng",
+  "title": "Microsoft 365",
+  "description": "<p>Office 365 tích hợp đầy đủ các ứng dụng, dịch vụ phục vụ cho hoạt động của doanh nghiệp:</p><p><br></p><p>- Ứng dụng văn phòng Word, Excel, PowerPoint và các ứng dụng khác, được cập nhật hàng tháng với các tính năng và bản cập nhật bảo mật mới nhất.</p><p><br></p><p>- Sử dụng email hoạt động trên nền tảng đám mây để liên hệ với khách hàng và đồng nghiệp dù bạn đang làm việc ở đâu.</p><p><br></p><p>- Tổ chức họp trực tuyến, trao đổi &amp; chia sẻ tệp tin trong Microsoft Teams.</p><p><br></p><p>- Lưu trữ trực tuyến vào OneDrive, cho phép truy nhập trên nhiều thiết bị và mọi lúc, mọi nơi.</p><p><br></p><p>- Vận hành doanh nghiệp bằng Ứng dụng kinh doanh, hỗ trợ bạn quản lý việc lên lịch, lập hóa đơn, lời giới thiệu cùng nhiều tính năng khác.</p>",
+  "isContact": true,
+  "advantages": [
+    {
+      "$oid": "63c5fe53a555ee592aaa0737"
+    },
+    {
+      "$oid": "63c5fe58a555ee592aaa073c"
+    },
+    {
+      "$oid": "63c5fe5da555ee592aaa0741"
+    }
+  ],
+  "services": [
+    {
+      "$oid": "63f88fbbf7b1a22ff4b50374"
+    },
+    {
+      "$oid": "63f88fc5f7b1a22ff4b5038d"
+    },
+    {
+      "$oid": "63f88fd0f7b1a22ff4b503a5"
+    },
+    {
+      "$oid": "63f890ccf7b1a22ff4b503ee"
+    },
+    {
+      "$oid": "63f890b9f7b1a22ff4b503de"
+    },
+    {
+      "$oid": "63f890c1f7b1a22ff4b503e6"
+    },
+    {
+      "$oid": "63f890ecf7b1a22ff4b503f6"
+    }
+  ],
+  "__v": 0
+}]

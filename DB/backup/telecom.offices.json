@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "62f5e23e48c1cc13e8684acf"
+  },
+  "name": " Trụ sở chính",
+  "hotline": " 096 308 7773",
+  "fax": " (+84 ) 28 3930 6889",
+  "address": "  DTS Tower, 287B Điện Biên Phủ, Phường Võ Thị Sáu, Quận 3, TPHCM",
+  "email": "sales@metaserv.vn",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62f5e25848c1cc13e8684ad1"
+  },
+  "name": " Văn phòng Hà Nội",
+  "hotline": "096 308 7773",
+  "fax": " +(84) 24 3942 6566",
+  "address": "  Số 4 Dã Tượng, Phường Trần Hưng Đạo, Quận Hoàn Kiếm, Thành phố Hà Nội",
+  "email": "sales@metaserv.vn",
+  "__v": 0
+}]

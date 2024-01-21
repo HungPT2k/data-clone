@@ -1,0 +1,287 @@
+[{
+  "_id": {
+    "$oid": "63295d2492d397b33a29b836"
+  },
+  "user": {
+    "$oid": "62e789f5c582afb902ec7717"
+  },
+  "information": {
+    "code": "DH000001",
+    "type": "Đơn hàng đăng ký",
+    "status": "Chưa thanh toán",
+    "valueAmount": 29280000,
+    "paidAmount": 0,
+    "remainingAmount": 29280000,
+    "createdDate": {
+      "$date": "2022-09-20T06:21:18.116Z"
+    }
+  },
+  "payments": [],
+  "cart": {
+    "products": [
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f369cbdccf160d9d47d8f"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 760000,
+          "tax": 76000,
+          "priceAfterTax": 836000
+        },
+        "bonus": [],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 760000,
+        "tax": 76000,
+        "priceAfterTax": 836000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "VCPU",
+            "quantity": 13,
+            "unit": "vCPU",
+            "priceBeforeTax": 1300000,
+            "tax": 130000,
+            "priceAfterTax": 1430000
+          },
+          {
+            "key": "RAM",
+            "quantity": 109,
+            "unit": "RAM",
+            "priceBeforeTax": 10900000,
+            "tax": 1090000,
+            "priceAfterTax": 11990000
+          },
+          {
+            "key": "BANDWIDTH",
+            "quantity": 600,
+            "unit": "Mbps",
+            "priceBeforeTax": 5160000,
+            "tax": 516000,
+            "priceAfterTax": 5676000
+          },
+          {
+            "key": "IP",
+            "quantity": 3,
+            "unit": "IP",
+            "priceBeforeTax": 90000,
+            "tax": 9000,
+            "priceAfterTax": 99000
+          },
+          {
+            "key": "SSD",
+            "quantity": 1310,
+            "unit": "GB",
+            "priceBeforeTax": 3930000,
+            "tax": 393000,
+            "priceAfterTax": 4323000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 21880000,
+        "tax": 2188000,
+        "priceAfterTax": 24068000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "VCPU",
+            "quantity": 1,
+            "unit": "vCPU",
+            "priceBeforeTax": 100000,
+            "tax": 10000,
+            "priceAfterTax": 110000
+          },
+          {
+            "key": "RAM",
+            "quantity": 1,
+            "unit": "RAM",
+            "priceBeforeTax": 100000,
+            "tax": 10000,
+            "priceAfterTax": 110000
+          },
+          {
+            "key": "BANDWIDTH",
+            "quantity": 100,
+            "unit": "Mbps",
+            "priceBeforeTax": 860000,
+            "tax": 86000,
+            "priceAfterTax": 946000
+          },
+          {
+            "key": "IP",
+            "quantity": 1,
+            "unit": "IP",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          },
+          {
+            "key": "SSD",
+            "quantity": 10,
+            "unit": "GB",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 1620000,
+        "tax": 162000,
+        "priceAfterTax": 1782000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "VCPU",
+            "quantity": 1,
+            "unit": "vCPU",
+            "priceBeforeTax": 100000,
+            "tax": 10000,
+            "priceAfterTax": 110000
+          },
+          {
+            "key": "RAM",
+            "quantity": 1,
+            "unit": "RAM",
+            "priceBeforeTax": 100000,
+            "tax": 10000,
+            "priceAfterTax": 110000
+          },
+          {
+            "key": "BANDWIDTH",
+            "quantity": 100,
+            "unit": "Mbps",
+            "priceBeforeTax": 860000,
+            "tax": 86000,
+            "priceAfterTax": 946000
+          },
+          {
+            "key": "IP",
+            "quantity": 1,
+            "unit": "IP",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          },
+          {
+            "key": "SSD",
+            "quantity": 10,
+            "unit": "GB",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 1620000,
+        "tax": 162000,
+        "priceAfterTax": 1782000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "VCPU",
+            "quantity": 1,
+            "unit": "vCPU",
+            "priceBeforeTax": 100000,
+            "tax": 10000,
+            "priceAfterTax": 110000
+          },
+          {
+            "key": "RAM",
+            "quantity": 1,
+            "unit": "RAM",
+            "priceBeforeTax": 100000,
+            "tax": 10000,
+            "priceAfterTax": 110000
+          },
+          {
+            "key": "BANDWIDTH",
+            "quantity": 300,
+            "unit": "Mbps",
+            "priceBeforeTax": 2580000,
+            "tax": 258000,
+            "priceAfterTax": 2838000
+          },
+          {
+            "key": "IP",
+            "quantity": 3,
+            "unit": "IP",
+            "priceBeforeTax": 90000,
+            "tax": 9000,
+            "priceAfterTax": 99000
+          },
+          {
+            "key": "SSD",
+            "quantity": 10,
+            "unit": "GB",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 3400000,
+        "tax": 340000,
+        "priceAfterTax": 3740000
+      }
+    ],
+    "totalPriceBeforeTax": 29280000,
+    "totalTax": 2928000,
+    "totalPriceAfterTax": 32208000
+  },
+  "__v": 0
+}]

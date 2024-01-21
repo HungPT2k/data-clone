@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "632c1e602c7e1d4aaf24a0c9"
+  },
+  "name": "Cisco",
+  "logo": "https://graph.metaserv.vn/public/trademark/logos/9f1b4b0d4ec3f5436fb9ae038520b7fc",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6455cbb0b655f8f824614c32"
+  },
+  "name": "METASERV",
+  "logo": "https://graph.metaserv.vn/public/trademark/logos/921f83f032f8941f642e179235314f23",
+  "__v": 0
+}]

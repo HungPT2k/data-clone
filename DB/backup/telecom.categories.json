@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6278be6557b91ed23bf454ae"
+  },
+  "title": "Điện toán đám mây",
+  "icon": "https://graph.metaserv.vn/public/category/icons/8d8ca4354069f38c65b0601bd5f3f04a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6278be8f57b91ed23bf454b1"
+  },
+  "title": "Trung tâm dữ liệu",
+  "icon": "https://graph.metaserv.vn/public/category/icons/9ff7bd5c5e4e0515478fdbb69cecd284",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6278bece57b91ed23bf454b4"
+  },
+  "title": "Sao lưu & lưu trữ đám mây",
+  "icon": "https://graph.metaserv.vn/public/category/icons/7d1816863c4bb5a00fb942db0fcd7a24",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6468434654b14217f680c88a"
+  },
+  "title": "CDNetwork",
+  "icon": "https://graph.metaserv.vn/public/category/icons/790c05aa517f6dc357a3a49619825ac8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6278e6168d63969a1118ccb3"
+  },
+  "title": "Kết nối",
+  "icon": "https://graph.metaserv.vn/public/category/icons/ec81e7cf121d892ebbb6419500f4642a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ffba17f5236e3181af0e3d"
+  },
+  "title": "Hosting",
+  "icon": "https://graph.metaserv.vn/public/category/icons/14195599bf8044a2b62a596ed4666d93",
+  "__v": 0
+}]

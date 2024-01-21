@@ -1,0 +1,138 @@
+[{
+  "_id": {
+    "$oid": "6572984a739385ee6bdf72dc"
+  },
+  "title": "QC Test 2 ",
+  "description": "QC Test2 ",
+  "image": "http://103.20.144.134:4000/public/page/ads/20231209/1702260947908.jpeg",
+  "url": "Test.com",
+  "displayTime": 55,
+  "page": [
+    {
+      "$oid": "62ff4e2e73e8f1ba5a40d6f6"
+    }
+  ],
+  "status": false,
+  "__v": 0,
+  "createdAt": 1702025434
+},
+{
+  "_id": {
+    "$oid": "65729866739385ee6bdf72e2"
+  },
+  "title": "QC1",
+  "description": "Des",
+  "image": "http://103.20.144.134:4000/public/page/ads/20231209/1702260616319.png",
+  "url": "",
+  "displayTime": 60,
+  "page": [
+    {
+      "$oid": "62ff4cfa73e8f1ba5a40d6ed"
+    }
+  ],
+  "status": false,
+  "__v": 0,
+  "createdAt": 1702025435
+},
+{
+  "_id": {
+    "$oid": "6572b8590f23a797af3d1e99"
+  },
+  "title": "QC Test 5 ",
+  "description": "QC Test 5 ",
+  "image": "https://graph.metaserv.vn/public/page/ads/20231228/1703759400530.jpg",
+  "url": "Test.com",
+  "displayTime": 25,
+  "page": [
+    {
+      "$oid": "62ff4dc273e8f1ba5a40d6f2"
+    },
+    {
+      "$oid": "62ff4dfb73e8f1ba5a40d6f4"
+    },
+    {
+      "$oid": "62ff49f518a805bfeca35ae1"
+    }
+  ],
+  "status": false,
+  "__v": 0,
+  "createdAt": 1702025436
+},
+{
+  "_id": {
+    "$oid": "6572d8dc154439fb0d878f41"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "title": "Shopee",
+  "description": "QC Test 6 ",
+  "image": "https://graph.metaserv.vn/public/page/ads/20231228/1703759605856.jpg",
+  "url": "Test.com",
+  "displayTime": 30,
+  "page": [
+    {
+      "$oid": "646d86a8481da8d3863396a3"
+    },
+    {
+      "$oid": "62ff4e2e73e8f1ba5a40d6f6"
+    }
+  ],
+  "status": false,
+  "createdAt": 1702025436,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65766ec4796c125958ba9242"
+  },
+  "title": "Quảng cáo 1",
+  "description": "ads",
+  "image": "https://graph.metaserv.vn/public/page/ads/20231228/1703759378548.jpg",
+  "url": "https://www.youtube.com/watch?v=47mXEJ0ICGY",
+  "displayTime": 5,
+  "page": [
+    {
+      "$oid": "62ff4cfa73e8f1ba5a40d6ed"
+    },
+    {
+      "$oid": "62ff4e2e73e8f1ba5a40d6f6"
+    },
+    {
+      "$oid": "62ff4dc273e8f1ba5a40d6f2"
+    },
+    {
+      "$oid": "62ff49f518a805bfeca35ae1"
+    }
+  ],
+  "status": false,
+  "createdAt": 1702260420,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6576924c796c125958ba98f7"
+  },
+  "title": "QC3",
+  "description": "chạy as",
+  "image": "https://graph.metaserv.vn/public/page/ads/20231228/1703759307352.jpg",
+  "url": "https://www.youtube.com/watch?v=47mXEJ0ICGY",
+  "displayTime": 10,
+  "page": [
+    {
+      "$oid": "62ff4dc273e8f1ba5a40d6f2"
+    },
+    {
+      "$oid": "62ff4e2e73e8f1ba5a40d6f6"
+    },
+    {
+      "$oid": "62ff4dfb73e8f1ba5a40d6f4"
+    },
+    {
+      "$oid": "62ff49f518a805bfeca35ae1"
+    }
+  ],
+  "status": false,
+  "createdAt": 1702269516,
+  "__v": 0
+}]

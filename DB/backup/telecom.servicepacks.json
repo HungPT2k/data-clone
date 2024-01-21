@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "630f35fbbdccf160d9d47d86"
+  },
+  "prices": [
+    {
+      "$oid": "656d3c0f913b79f425a2cf0f"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "vCPU",
+      "value": "1",
+      "name": "CPU: Intel Xeon Gold thế hệ mới",
+      "unit": null
+    },
+    {
+      "key": "RAM",
+      "value": "1",
+      "name": "RAM DDR4",
+      "unit": "GB"
+    },
+    {
+      "key": "SSD",
+      "value": "15",
+      "name": "SSD  Storage",
+      "unit": "GB"
+    },
+    {
+      "key": "IP",
+      "value": "1",
+      "name": "Public IP",
+      "unit": ""
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630f369cbdccf160d9d47d8f"
+  },
+  "prices": [
+    {
+      "$oid": "656d43c1913b79f425a2d02c"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "vCPU",
+      "value": "2",
+      "name": "CPU: Intel Xeon Gold thế hệ mới",
+      "unit": null
+    },
+    {
+      "key": "RAM",
+      "value": "4",
+      "name": "RAM DDR4",
+      "unit": "GB"
+    },
+    {
+      "key": "SSD",
+      "value": "40",
+      "name": "SSD  Storage",
+      "unit": "GB"
+    },
+    {
+      "key": "IP",
+      "value": "1",
+      "name": "Public IP",
+      "unit": null
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630f36febdccf160d9d47da1"
+  },
+  "prices": [
+    {
+      "$oid": "656d43d3913b79f425a2d031"
+    }
+  ],
+  "attributes": [
+    {
+      "key": "vCPU",
+      "value": "4",
+      "name": "CPU: Intel Xeon Gold thế hệ mới",
+      "unit": null
+    },
+    {
+      "key": "RAM",
+      "value": "6",
+      "name": "RAM DDR4",
+      "unit": "GB"
+    },
+    {
+      "key": "SSD",
+      "value": "50",
+      "name": "SSD  Storage",
+      "unit": "GB"
+    },
+    {
+      "key": "IP",
+      "value": "1",
+      "name": "Public IP",
+      "unit": null
+    }
+  ],
+  "__v": 0
+}]

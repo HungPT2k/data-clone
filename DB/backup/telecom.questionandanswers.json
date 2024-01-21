@@ -1,0 +1,288 @@
+[{
+  "_id": {
+    "$oid": "630f3422bdccf160d9d47d29"
+  },
+  "question": " Tôi cần tư vấn thêm về báo giá của các dịch vụ METASERV thì làm thế nào?",
+  "answer": "<p>Để được hỗ trợ chi tiết, vui lòng liên hệ với chúng tôi qua:</p><ul><li><span style=\"color: rgb(34, 34, 34);\">Hotline: 096 308 7773</span></li><li><span style=\"color: rgb(34, 34, 34);\">Email: </span><span style=\"color: rgb(4, 23, 27);\">sales@metaserv.vn</span></li></ul>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630f343fbdccf160d9d47d2e"
+  },
+  "question": "Nếu đăng ký để sử dụng dịch vụ của METASERV, tôi có được ưu đãi gì không?",
+  "answer": "<p>METASERV luôn có các gói khuyến mãi dành cho khách hàng đăng ký sử dụng dịch vụ của METASERV dài hạn.</p><p><br></p><p>Ngoài ra, khách hàng còn được hưởng từ chương trình khuyến mại khác, áp dụng tại thời điểm đăng ký.</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630f3460bdccf160d9d47d33"
+  },
+  "question": "Các tính năng dịch vụ Cloud của METASERV là gì?",
+  "answer": "<p><span style=\"color: rgb(34, 34, 34);\">Dịch vụ Cloud của METASERV bao gồm đầy đủ các tính năng như:</span></p><ul><li><span style=\"color: rgb(34, 34, 34);\">vLoadbalancer</span></li><li><span style=\"color: rgb(34, 34, 34);\">vFirewall</span></li><li><span style=\"color: rgb(34, 34, 34);\">Snapshot.</span></li><li><span style=\"color: rgb(34, 34, 34);\">Anti DDOS</span></li><li><span style=\"color: rgb(34, 34, 34);\">Backup</span></li><li><span style=\"color: rgb(34, 34, 34);\">...</span></li></ul>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "631f04afbdccf160d9d4c59c"
+  },
+  "question": " Nền tảng công nghệ điện toán đám mây METASERV đang sử dụng là gì?",
+  "answer": "<ul><li>Nền tảng công nghệ VMware &amp; Hyper-V đang là đồng lựa chọn tốt nhất của METASERV trong việc phát triển công nghệ điện toán đám mây, hỗ trợ cả public clouds &amp; private clouds.</li><li>Ứng dụng các công nghệ vào hạ tầng sẽ giúp METASERV cung cấp toàn bộ máy ảo &amp; tài nguyên dưới loại dịch vụ Infrastructure as a Service (IaaS).</li></ul>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63215ef7bdccf160d9d4e001"
+  },
+  "question": "Tôi cần tư vấn thêm về báo giá của dịch vụ Cloud Server của METASERV thì làm thế nào?",
+  "answer": "<p>Để được hỗ trợ chi tiết, vui lòng liên hệ với chúng tôi qua:</p><ul><li><span style=\"color: rgb(34, 34, 34);\">Hotline: 096 308 7773</span></li><li><span style=\"color: rgb(34, 34, 34);\">Email: </span><span style=\"color: rgb(4, 23, 27);\">sales@metaserv.vn</span></li></ul>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6321a012bdccf160d9d4e227"
+  },
+  "question": "Dịch vụ METASERV Colocation bao gồm những gì?",
+  "answer": "<ul><li>Hệ thống chăm sóc khách hàng và hỗ trợ kỹ thuật liên tục 24x7x365.</li><li>Hỗ trợ giao tiếp đa ngôn ngữ với múi giờ tương ứng.</li><li>Được tư vấn và cung cấp các hệ sinh thái xung quanh Máy Chủ như: Phần cứng, hệ điều hành, giải pháp ảo hoá, phần mềm quản trị ...</li><li>Cam kết dịch vụ: 99.9% uptime.</li><li>Được ra vào Data Center 24/7/365 thông qua hệ thống kiểm soát và an ninh.</li><li>Được METASERV chủ động và hỗ trợ trực tiếp khi có sự cố.</li></ul>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6321a134bdccf160d9d4e22c"
+  },
+  "question": "Nếu cần đường Internet Backup của nhà cung cấp khác thì có được kết nối vào Data Center METASERV không.",
+  "answer": "<p>METASERV hoàn toàn chào đón &amp; hỗ trợ khách hàng trong việc kết nối thêm đường Internet Backup của các đối tác khác</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "633a5f64c861145f3e212115"
+  },
+  "question": "Khi hệ thống Private Cloud gặp lỗi ở các node thì sẽ xử lý như thế nào?",
+  "answer": "<p>Trung tâm điều khiển của METASERV sẽ cảnh báo và phát hiện ra lỗi, kiểm tra &amp; đánh giá tình trạng dữ liệu. Sau đó sẽ điều chuyển tự động toàn bộ máy chủ ảo sang các node hoạt động khác.&nbsp;</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "633a5f70c861145f3e21213b"
+  },
+  "question": "Các cấu phần xây dựng thành hệ thống Private Cloud của METASERV?",
+  "answer": "<p>Hệ thống Private Cloud của METASERV bao gồm phần cứng lưu trữ, phần mềm ảo hóa, hoàn toàn được xây dựng trên hạ tầng Data Center tiêu chuẩn quốc tế.</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c600e5a555ee592aaa081a"
+  },
+  "question": "Vì sao nên sử dụng giải pháp SD-WAN?",
+  "answer": "<p> Do các mạng WAN truyền thống chưa bao giờ sinh ra được thiết kế cho Cloud. Trong khi, các ứng dụng của khách hàng được host trong các:</p><p> - On-premise Data Centers</p><p> - Public hoặc Private clouds</p><p> - Các giải pháp SaaS chẳng hạn như Salesforce.com, Workday, Office365, Box and Dropbox,..</p><p> Việc định tuyến lưu lượng truyền thống như từ mạng đến chi nhánh đến văn phòng chính, sau đó đi ra internet và quay trở ngược lại sẽ làm mất thời gian, làm tăng độ trễ. Vậy mục đích của SD-WAN là định tuyến lưu lượng tự động, gia tăng hiệu suất, giảm độ trễ tối đa để khách hàng có thể sử dụng ứng dụng hiệu quả nhất.</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c600eea555ee592aaa081f"
+  },
+  "question": "Lợi ích khi sử dụng SD-WAN so với WAN truyền thống?",
+  "answer": "<p> SD-WAN có chi phí đầu tư rẻ hơn WAN. SD-WAN hoàn toàn có thể kết hợp đường MLPS với các đường truyền FTTH/ 4G/ LTE &amp; kết nối toàn cầu.</p><p> Khi mở rộng quy mô, dung lượng Internet, SD-WAN sẽ linh hoạt theo tùy biến của khách hàng với thời gian triển khai ngắn hơn WAN truyền thống.</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c600faa555ee592aaa0824"
+  },
+  "question": "Tại sao nên sử dụng Web Hosting có phí?",
+  "answer": "<p> Web Hosting có phí sẽ cho phép khách hàng sử dụng &amp; quản lý riêng biệt đối với:</p><p> - Tên miền.</p><p> - Nội dung.</p><p> - Khả năng mở rộng.</p><p> Mặt khác, Web Hosting miễn phí khiến khách hàng hoàn toàn phụ thuộc vào nhà cung cấp dịch vụ lưu trữ.</p><p> </p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c60101a555ee592aaa0829"
+  },
+  "question": "Tại sao nên sử dụng Web Hosting tại Việt Nam?",
+  "answer": "<p>- Tốc độ truy cập trong nước sẽ dễ dàng hơn, đăng ký và thanh toán nhanh chóng, không bị rào cản về mặt ngôn ngữ, quyền lợi của bạn được bảo vệ bảo bởi pháp luật Việt Nam.</p><p>Dịch vụ Web Hosting của METASERV đảm bảo cho khách&nbsp;hàng về bảo mật, an toàn dữ liệu, tốc độ truy cập nhanh &amp; ổn định, dễ dàng mở rộng lưu trữ, hệ thống máy chủ chất lượng hàng đầu với tiêu chuẩn quốc tế TIA 942-2005.</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c6010aa555ee592aaa082e"
+  },
+  "question": "Liệu có thể nâng cấp hay mở rộng gói Web Hosting không?",
+  "answer": "<p> Trong quá trình hoạt động website, khách hàng vẫn có thể nâng cấp, mở rộng lưu trữ hosting mà không có bất kỳ ảnh hưởng nào.</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c60114a555ee592aaa0833"
+  },
+  "question": "Tại sao nên sử dụng Email Hosting?",
+  "answer": "<p> Email Hosting chuyên dụng cung cấp lưu trữ số lượng email lớn, tệp đính kèm. Email đến và đi được đảm bảo tính chất liên tục.</p><p> Email Hosting duy trì tính chính xác và không làm gián đoạn việc chuyển thông tin sử dụng, giúp gia tăng giá trị email của khách hàng.</p><p> </p><p> </p><p> </p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c6011aa555ee592aaa0838"
+  },
+  "question": "Lợi ích của Email Hosting so với các dịch vụ khác?",
+  "answer": "<p>Đối với các Email miễn phí:</p><p>Như gmail, yahoo mail… hiện đang rất phổ biến nhờ vào tính năng tiện dụng. Tuy nhiên, tính năng bảo mật lại kém, không chuyên nghiệp do không có tên miền riêng đi kèm, làm giảm giá trị thương hiệu của công ty khách hàng.&nbsp;</p><p><br></p><p>Đối với Email Hosting:</p><p>Hệ thống Email Hosting do METASERV cung cấp có đầy đủ bảo mật hệ thống từ hạ tầng cho đến giải pháp, độ sẵn sàng cao, dễ dàng nâng cấp mở rộng &amp; không giới hạn băng thông sử dụng, không bị gián đoạn dịch vụ, có hỗ trợ kĩ thuật 24x7x365.&nbsp;</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c60124a555ee592aaa083d"
+  },
+  "question": "Liệu có thể nâng cấp gói Email Hosting trong quá trình sử dụng dịch vụ không?",
+  "answer": "<p> Khách hàng hoàn toàn có thể nâng cấp gói Email Hosting mà không ảnh hưởng tới dịch vụ hiễn hữu.</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c6012ea555ee592aaa0842"
+  },
+  "question": "Liệu có thể chuyển nhượng tên miền (Domain) sau khi đăng ký không?",
+  "answer": "<p>Khách hàng có thể chuyển nhượng tên miền quốc gia hoặc quốc tế. Về chi phí &amp; cách thức chuyển nhượng, vui lòng liên hệ:</p><p>Hotline: 096 308 7773</p><p>Email: sales@metaserv.vn</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c60136a555ee592aaa0847"
+  },
+  "question": "Tên miền (domain) hoạt động như thế nào?",
+  "answer": "<p> Tên miền là đường tắt đi đến server host website của bạn. Một tên miền (domain name) giống như một địa chỉ nhà vì đó là cách mọi người tìm thấy bạn trên World Wide Web.</p><p> </p><p> Thanh hiển thị ở đầu trình duyệt web là thanh địa chỉ – đó là nơi bạn nhập tên miền để tìm một trang web. Nếu một tên miền giống như địa chỉ thì máy chủ (hosting) chứa website của bạn giống như một tòa nhà.</p><p> </p><p> Khi bạn tạo một trang web, bạn đặt tên miền để trỏ đến máy chủ để khi mọi người muốn tìm trang web của bạn thì họ có thể nhập tên miền và nó sẽ đưa họ đến đó. Nếu không có tên miền, khách truy cập sẽ phải nhập địa chỉ IP (ví dụ 100.90.80.70) của máy chủ. Hầu hết các trang web bạn truy cập đều sử dụng tên miền.</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c60145a555ee592aaa084c"
+  },
+  "question": "Khi đăng ký nhầm hoặc sai, tên miền có thể hủy để thay đổi không?",
+  "answer": "<p>Nếu khách hàng đăng ký sai tên miền thì không thể hủy hoặc thay đổi vì tên miền có tính chất chỉ có 1 và duy nhất. Vậy việc đăng ký phải chính xác ngày từ đầu.</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c6014ea555ee592aaa0851"
+  },
+  "question": "Thời hạn đăng ký tối đa của tên miền là bao lâu?",
+  "answer": "<p> Tên miền có thể đăng ký với thời hạn 1 năm đến 10 năm.</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c603cba555ee592aaa086f"
+  },
+  "question": "Khi sử dụng dịch vụ quản trị của METASERV thì trách nhiệm của khách hàng là gì?",
+  "answer": "<p>- Nếu có thay đổi về máy chủ, thiết bị cần thông tin cho đội NOC của METASERV.</p><p>- Hệ điều hành &amp; phần mềm cài trên máy chủ cần có bản quyền của hãng, để phục vụ việc hỗ trợ kỹ thuật song song.</p><p>- Tài khoản root sẽ do METASERV quản lý. Còn khách hàng sẽ được cấp tài khoản có quyền truy cập giới hạn.</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c603d3a555ee592aaa0874"
+  },
+  "question": "Các hoạt động định kỳ của METASERV trong quá trình khách hàng sử dụng dịch vụ là gì?",
+  "answer": "<p>- Theo dõi quá trình, kết quả sao lưu sử dụng Cloud Backup (nếu có), kiểm tra dữ liệu Backup có thể khôi phục</p><p>- Theo dõi các bản vá, lỗ hổng của hệ điều hành và cảnh báo khách hàng nâng cấp</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c603e0a555ee592aaa0879"
+  },
+  "question": "Thiết bị máy chủ cho thuê có bảo hành không?",
+  "answer": "<p> - Có, mỗi thiết bị sẽ có thời gian bảo hành khác nhau, phụ thuộc vào hãng &amp; hiện trạng.</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c603e8a555ee592aaa087e"
+  },
+  "question": "Chi phí thuê máy chủ có bao gồm chi phí đặt chỗ không?",
+  "answer": "<p> - Không bao gồm, chi phí đặt chỗ sẽ được tách bạch để giúp khách hàng dễ quản lý.</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c6041fa555ee592aaa08a9"
+  },
+  "question": "Kênh quang trắng của METASERV có tốc độ bao nhiêu?",
+  "answer": "<p>Tốc độ kênh quang trắng lên tới 10Gbps.</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c60428a555ee592aaa08ae"
+  },
+  "question": "Băng thông Internet của trung tâm dữ liệu METASERV là bao nhiêu?",
+  "answer": "<p>Băng thông tại trung tâm dữ liệu METASERV là không giới hạn.</p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f20c913b79f425a27171"
+  },
+  "question": "Doanh nghiệp nào cần sử dụng CDN?",
+  "answer": "<ul><li><span style=\"color: rgb(0, 0, 0);\">Doanh nghiệp cung cấp ấn phẩm tin tức lớn với độc giả nhiều nước.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Doanh nghiệp sở hữu các trang truyền thông xã hội cần cung cấp nội dung đa phương tiện trên nguồn cấp dữ liệu của người dùng.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Doanh nghiệp sở hữu trang web giải trí như Netflix cung cấp nội dung web độ phân giải cao theo thời gian thực.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Nền tảng thương mại điện tử với hàng triệu khách hàng.</span></li><li><span style=\"color: rgb(0, 0, 0);\">Các công ty trò chơi có nội dung nặng về đồ họa được người dùng phân bổ truy cập theo khu vực địa lý.</span></li></ul>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f221913b79f425a27176"
+  },
+  "question": "CDN có an toàn không?",
+  "answer": "<p><span style=\"color: rgb(0, 0, 0);\">CDN có thể cung cấp một số tính năng bảo mật, như bảo vệ trang web khỏi tấn công DDOS và bảo vệ chống thất thoát dữ liệu. Tuy nhiên, an ninh cũng phụ thuộc vào cách doanh nghiệp cấu hình và quản lý CDN của mình.</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f23a913b79f425a2717b"
+  },
+  "question": "Cần phải có chuyên gia về CDN để sử dụng và quản lý hay không?",
+  "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Không cần phải là một chuyên gia về CDN thì mới có thể sử dụng. MetaServ hướng dẫn và hỗ trợ để doanh nghiệp có thể cài đặt và sử dụng dịch vụ một cách dễ dàng.</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f8d8913b79f425a2731a"
+  },
+  "question": "Tôi cần tư vấn thêm về báo giá của dịch vụ WAF của METASERV thì làm thế nào?",
+  "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Để được hỗ trợ chi tiết, vui lòng liên hệ với chúng tôi qua:</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Hotline: 096 308 7773</span></p><p><span style=\"color: rgb(0, 0, 0);\">Email: sales@metaserv.vn</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f8f3913b79f425a2731f"
+  },
+  "question": "WAF có phải là một giải pháp tức thời cho tất cả các loại trang web?",
+  "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Không, việc sử dụng WAF nên được xem xét dựa trên loại trang web và mức độ nguy cơ. Trang web nhạy cảm hơn hoặc chứa thông tin cá nhân quan trọng thường cần sử dụng WAF. Tuy nhiên, việc bảo vệ trang web không bao giờ là quá mức, WAF có thể hữu ích cho hầu hết các loại trang web.</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f90e913b79f425a27324"
+  },
+  "question": "WAF có thể tích hợp với các công cụ bảo mật khác không?",
+  "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Có, WAF có thể tích hợp với nhiều công cụ bảo mật khác như IDS/IPS (Intrusion Detection System/Intrusion Prevention System), CDN (Content Delivery Network) hoặc SIEM (Security Information and Event Management) để cải thiện bảo mật tổng thể và cung cấp thông tin chi tiết về các cuộc tấn công.</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f927913b79f425a27329"
+  },
+  "question": "Tại sao doanh nghiệp cần đầu tư vào giải pháp chống DDoS?",
+  "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Cuộc tấn công DDoS có thể gây ra sự suy giảm hoạt động kinh doanh, thất thoát dữ liệu, và hại thương danh tiếng. Đầu tư vào giải pháp chống DDoS giúp bảo vệ doanh nghiệp khỏi những hậu quả này và đảm bảo tính khả dụng của dịch vụ.</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f943913b79f425a2732e"
+  },
+  "question": "Làm thế nào để chọn một giải pháp chống DDoS phù hợp?",
+  "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Lựa chọn một giải pháp chống DDoS phụ thuộc vào nhu cầu của doanh nghiệp và ngân sách. Có giải pháp cục bộ (on-premises) và giải pháp dựa trên đám mây (cloud-based). Cần xem xét tải đường truyền, khả năng mở rộng, và tính năng bảo vệ cụ thể.</span></p>",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f97c913b79f425a2733d"
+  },
+  "question": "Làm thế nào để nhận biết một cuộc tấn công DDoS?",
+  "answer": "<p><span style=\"color: rgb(0, 0, 0);\">Có các biểu hiện như tăng đột ngột của lưu lượng truy cập, sự suy giảm hiệu suất, và lỗi kết nối trên trang web hoặc ứng dụng. Công cụ giám sát và phân tích lưu lượng mạng có thể giúp bạn nhận diện cuộc tấn công. Phát hiện sớm thông qua chương trình đánh giá hệ thống của doanh nghiệp hoàn toàn miễn phí của MetaServ.</span></p>",
+  "__v": 0
+}]

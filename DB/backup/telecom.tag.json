@@ -1,0 +1,564 @@
+[{
+  "_id": {
+    "$oid": "6548544e9227fa2cc615c868"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "news",
+  "order": 2,
+  "description": "this is news tag 111",
+  "createdAt": 1699238990
+},
+{
+  "_id": {
+    "$oid": "654866eb3f8206a575cd9911"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "hot",
+  "order": 1,
+  "description": "hot",
+  "createdAt": 1699243755
+},
+{
+  "_id": {
+    "$oid": "654867693f8206a575cd9915"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "telecom",
+  "order": 5,
+  "description": "telecom",
+  "createdAt": 1699243881
+},
+{
+  "_id": {
+    "$oid": "654867a63f8206a575cd9921"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "server",
+  "order": 6,
+  "description": "server",
+  "createdAt": 1699243942
+},
+{
+  "_id": {
+    "$oid": "6548680a3f8206a575cd992d"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "tên miền",
+  "order": 7,
+  "description": "tên miền",
+  "createdAt": 1699244042
+},
+{
+  "_id": {
+    "$oid": "6548686f3f8206a575cd9941"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "máy chủ vật lý",
+  "order": 3,
+  "description": "máy chủ vật lý",
+  "createdAt": 1699244143
+},
+{
+  "_id": {
+    "$oid": "6548ba528aeaa726ff12182a"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "xu thế",
+  "order": 8,
+  "description": "xu thế",
+  "createdAt": 1699265106
+},
+{
+  "_id": {
+    "$oid": "6548badf8aeaa726ff121846"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "toạ đàm",
+  "order": 9,
+  "description": "toạ đàm",
+  "createdAt": 1699265247
+},
+{
+  "_id": {
+    "$oid": "6548bb2b8aeaa726ff121852"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "nguồn tham khảo",
+  "order": 10,
+  "description": "nguồn tham khảo",
+  "createdAt": 1699265323
+},
+{
+  "_id": {
+    "$oid": "6548bb6a8aeaa726ff12185e"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "signing",
+  "order": 4,
+  "description": "signing",
+  "createdAt": 1699265386
+},
+{
+  "_id": {
+    "$oid": "6552ce4cffe0d61b1c008991"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "firewall",
+  "order": 13,
+  "description": "tường lửa",
+  "createdAt": 1699925580
+},
+{
+  "_id": {
+    "$oid": "658d6b445c8e9657cef1eea9"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "VPS",
+  "order": 20,
+  "description": "máy chủ ảo",
+  "createdAt": 1699238991
+},
+{
+  "_id": {
+    "$oid": "658d6dd95c8e9657cef1eeaa"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "Colocation",
+  "order": 21,
+  "description": "máy chủ ảo",
+  "createdAt": 1699238992
+},
+{
+  "_id": {
+    "$oid": "658d6e2e5c8e9657cef1eeab"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "Rack",
+  "order": 23,
+  "description": "Rack",
+  "createdAt": 1699238993
+},
+{
+  "_id": {
+    "$oid": "658d796f5c8e9657cef1eeb0"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "Hosting",
+  "order": 24,
+  "description": "Hosting",
+  "createdAt": 1699238994
+},
+{
+  "_id": {
+    "$oid": "658d79b15c8e9657cef1eeb1"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "Webhosting",
+  "order": 25,
+  "description": "Webhosting",
+  "createdAt": 1699238995
+},
+{
+  "_id": {
+    "$oid": "658d79ed5c8e9657cef1eeb2"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "metaserv",
+  "order": 26,
+  "description": "metaserv",
+  "createdAt": 1699238996
+},
+{
+  "_id": {
+    "$oid": "658d7a425c8e9657cef1eeb3"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "Cloud server",
+  "order": 27,
+  "description": "Cloud server",
+  "createdAt": 1699238997
+},
+{
+  "_id": {
+    "$oid": "658d7a745c8e9657cef1eeb4"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "Voucher",
+  "order": 28,
+  "description": "Voucher",
+  "createdAt": 1699238998
+},
+{
+  "_id": {
+    "$oid": "658d7aa85c8e9657cef1eeb5"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "SaigonCTT",
+  "order": 29,
+  "description": "SaigonCTT",
+  "createdAt": 1699238999
+},
+{
+  "_id": {
+    "$oid": "658d7b0d5c8e9657cef1eeb7"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "hạ tầng mạng",
+  "order": 30,
+  "description": "hạ tầng mạng",
+  "createdAt": 1699239000
+},
+{
+  "_id": {
+    "$oid": "658d7b645c8e9657cef1eeb9"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "Data Center",
+  "order": 31,
+  "description": "Data Center",
+  "createdAt": 1699239001
+},
+{
+  "_id": {
+    "$oid": "658d7b965c8e9657cef1eeba"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "DC",
+  "order": 32,
+  "description": "DC",
+  "createdAt": 1699239002
+},
+{
+  "_id": {
+    "$oid": "658d7bd75c8e9657cef1eebb"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "TIA-942",
+  "order": 33,
+  "description": "TIA-942",
+  "createdAt": 1699239003
+},
+{
+  "_id": {
+    "$oid": "658d7c045c8e9657cef1eebc"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "colocation services",
+  "order": 34,
+  "description": "colocation services",
+  "createdAt": 1699239004
+},
+{
+  "_id": {
+    "$oid": "658d7c5a5c8e9657cef1eebd"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "database",
+  "order": 35,
+  "description": "database",
+  "createdAt": 1699239005
+},
+{
+  "_id": {
+    "$oid": "658d7ca45c8e9657cef1eebe"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "asean",
+  "order": 36,
+  "description": "asean",
+  "createdAt": 1699239006
+},
+{
+  "_id": {
+    "$oid": "658d7cce5c8e9657cef1eebf"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "Technical Support",
+  "order": 37,
+  "description": "Technical Support",
+  "createdAt": 1699239007
+},
+{
+  "_id": {
+    "$oid": "658d7d105c8e9657cef1eec0"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "IT support",
+  "order": 38,
+  "description": "IT support",
+  "createdAt": 1699239008
+},
+{
+  "_id": {
+    "$oid": "658d7d435c8e9657cef1eec1"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "NOC",
+  "order": 39,
+  "description": "NOC",
+  "createdAt": 1699239009
+},
+{
+  "_id": {
+    "$oid": "658d7d755c8e9657cef1eec2"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "Game Server",
+  "order": 40,
+  "description": "Game Server",
+  "createdAt": 1699239010
+},
+{
+  "_id": {
+    "$oid": "658d83f45c8e9657cef1eec7"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "e-learning",
+  "order": 41,
+  "description": "e-learning",
+  "createdAt": 1699239011
+},
+{
+  "_id": {
+    "$oid": "658d84325c8e9657cef1eec8"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "DDos attack",
+  "order": 42,
+  "description": "DDos",
+  "createdAt": 1699239012
+},
+{
+  "_id": {
+    "$oid": "658d84805c8e9657cef1eec9"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "Support 24/7",
+  "order": 43,
+  "description": "Support 24/7",
+  "createdAt": 1699239013
+},
+{
+  "_id": {
+    "$oid": "658d850e5c8e9657cef1eeca"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "IoT",
+  "order": 44,
+  "description": "IoT",
+  "createdAt": 1699239014
+},
+{
+  "_id": {
+    "$oid": "658d85a15c8e9657cef1eecb"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "EVENT",
+  "order": 45,
+  "description": "EVENT",
+  "createdAt": 1699239015
+},
+{
+  "_id": {
+    "$oid": "658d85bc5c8e9657cef1eecc"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "SECURITY",
+  "order": 46,
+  "description": "SECURITY",
+  "createdAt": 1699239016
+},
+{
+  "_id": {
+    "$oid": "658d85ef5c8e9657cef1eecd"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "Giải pháp bảo vệ máy chủ",
+  "order": 47,
+  "description": "Giải pháp bảo vệ máy chủ",
+  "createdAt": 1699239017
+},
+{
+  "_id": {
+    "$oid": "658d861e5c8e9657cef1eece"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "ransomware",
+  "order": 48,
+  "description": "ransomware",
+  "createdAt": 1699239018
+},
+{
+  "_id": {
+    "$oid": "658d86495c8e9657cef1eecf"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "Lỗ hổng bảo mật",
+  "order": 49,
+  "description": "Lỗ hổng bảo mật",
+  "createdAt": 1699239019
+},
+{
+  "_id": {
+    "$oid": "658d867f5c8e9657cef1eed0"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "Akamai",
+  "order": 51,
+  "description": "Akamai",
+  "createdAt": 1699239021
+},
+{
+  "_id": {
+    "$oid": "658d87455c8e9657cef1eed3"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "Migration",
+  "order": 52,
+  "description": "Migration",
+  "createdAt": 1699239022
+},
+{
+  "_id": {
+    "$oid": "658d87635c8e9657cef1eed4"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "application",
+  "order": 53,
+  "description": "application",
+  "createdAt": 1699239023
+},
+{
+  "_id": {
+    "$oid": "658d87855c8e9657cef1eed5"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "#moderizing",
+  "order": 54,
+  "description": "#moderizing",
+  "createdAt": 1699239024
+},
+{
+  "_id": {
+    "$oid": "658d87b55c8e9657cef1eed6"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "Backup",
+  "order": 55,
+  "description": "backup",
+  "createdAt": 1699239025
+},
+{
+  "_id": {
+    "$oid": "658da4e4a43f7291709138ad"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "Application",
+  "order": 56,
+  "description": "Application",
+  "createdAt": 1699239026
+},
+{
+  "_id": {
+    "$oid": "658e8d38001899ba37c3bc3c"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "name": "METASERV",
+  "order": 100,
+  "description": "this is news tag 111",
+  "createdAt": 1703841080
+}]

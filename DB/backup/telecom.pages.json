@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "62ff49f518a805bfeca35ae1"
+  },
+  "name": "home",
+  "title": "Trang chủ",
+  "banner": "https://graph.metaserv.vn/public/page/banners/53937ed9ce6ddc4ba8aac129849c9058",
+  "carousel": [
+    {
+      "title": "",
+      "description": "",
+      "image": "https://graph.metaserv.vn/public/page/carousels/b9f06cb456781e1e9edb6ac011f25f3b"
+    },
+    {
+      "title": "",
+      "description": "",
+      "image": "https://graph.metaserv.vn/public/page/carousels/4ccda034ac23aecc13b062927b78586e"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ff4bfa73e8f1ba5a40d6e8"
+  },
+  "name": "prices",
+  "title": "Bảng giá",
+  "banner": "https://graph.metaserv.vn/public/page/banners/1e7e61adf6335087b9728a509a9cf6e4",
+  "carousel": [
+    {
+      "title": "",
+      "description": "",
+      "image": "https://graph.metaserv.vn/public/page/carousels/f8ed4cd31c5201abb3669ad7c18e67af"
+    },
+    {
+      "title": "",
+      "description": "",
+      "image": "https://graph.metaserv.vn/public/page/carousels/02dd2462262a23e6206fdc97eeae69d8"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ff4cfa73e8f1ba5a40d6ed"
+  },
+  "name": "news",
+  "title": "Tin tức",
+  "banner": "https://graph.metaserv.vn/public/page/banners/7d1680f50b26e3619013f46857578977",
+  "carousel": [
+    {
+      "title": "VPS máy chủ ảo lưu trữ riêng biệt",
+      "description": "Máy chủ ảo vốn rất quen thuộc với các nhà phát triển web, thiết kế website, webmaster, phát triển game, lập trình… ",
+      "image": "https://graph.metaserv.vn/public/page/carousels/7f0b70912b7cc80adf55a273ca36a35f"
+    },
+    {
+      "title": "Web Hosting là gì?",
+      "description": "dịch vụ lưu trữ trực tuyến giúp nội dung trang web của bạn có thể truy cập được trên internet...",
+      "image": "https://graph.metaserv.vn/public/page/carousels/85829d1fdccea30c910479e5d1740178"
+    },
+    {
+      "title": "Server Colocation dịch vụ cho thuê chỗ đặt máy chủ",
+      "description": "Nhu cầu thuê chỗ đặt máy chủ (Server Colocation) dần trở thành nhu cầu thiết yếu của các doanh nghiệp và tập đoàn trong thời đại số ngày nay...",
+      "image": "https://graph.metaserv.vn/public/page/carousels/2a5a7340051cca7b65e6c2b8a1e34db2"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ff4dc273e8f1ba5a40d6f2"
+  },
+  "name": "supports",
+  "title": "Hỗ trợ",
+  "banner": "https://graph.metaserv.vn/public/page/banners/28be86a27917869136fcc684c13aa982",
+  "carousel": [
+    {
+      "title": "METASERV",
+      "description": "Hỗ trợ",
+      "image": "https://graph.metaserv.vn/public/page/carousels/3a477ba54ba682bce767cc0c48ade675"
+    },
+    {
+      "title": "",
+      "description": "",
+      "image": "https://graph.metaserv.vn/public/page/carousels/0a84ba7f81296d0144932af6baf4e89c"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ff4dfb73e8f1ba5a40d6f4"
+  },
+  "name": "contacts",
+  "title": "Liên hệ",
+  "banner": "https://graph.metaserv.vn/public/page/banners/cf2164135ff6eb9d31a09fe97314fd6d",
+  "carousel": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ff4e2e73e8f1ba5a40d6f6"
+  },
+  "name": "about-us",
+  "title": "Tự sự",
+  "banner": "https://graph.metaserv.vn/public/page/banners/806ff0c79e1d02731d8e1c4b050cabf8",
+  "carousel": [
+    {
+      "title": "",
+      "description": "",
+      "image": "https://graph.metaserv.vn/public/page/carousels/eee78eb3479dd5b3ada3e0cee4ff6174"
+    },
+    {
+      "title": "",
+      "description": "",
+      "image": "https://graph.metaserv.vn/public/page/carousels/84b0d9e1cb6e4522c00a30efe4a45d29"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646d86a8481da8d3863396a3"
+  },
+  "name": "signature",
+  "title": "signature",
+  "banner": "https://graph.metaserv.vn/public/page/banners/5109b614163df199c1c01395ef9dce25",
+  "carousel": [],
+  "__v": 0
+}]

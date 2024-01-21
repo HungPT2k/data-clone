@@ -1,0 +1,30 @@
+
+FROM node:18-bullseye-slim
+
+RUN apt-get update && apt-get install -y wget gnupg && \
+    wget -qO - https://www.mongodb.org/static/pgp/server-5.0.asc | apt-key add - && \
+    echo "deb http://repo.mongodb.org/apt/debian bullseye/mongodb-org/5.0 main" | tee /etc/apt/sources.list.d/mongodb-org-5.0.list && \
+    apt-get update && \
+    apt-get install -y mongodb-org
+
+WORKDIR /usr/src/app
+COPY package.json ./
+COPY package-lock.json* ./
+
+RUN npm install
+
+
+COPY main.js ./
+COPY ./DB/backup ./data/ 
+COPY startup.sh ./
+
+ENV MONGO_INITDB_ROOT_USERNAME=hung
+ENV MONGO_INITDB_ROOT_PASSWORD=123
+ENV MONGO_INITDB_DATABASE=metaserv-clone
+
+RUN chmod +x ./startup.sh
+
+
+EXPOSE 27017
+
+CMD ["./startup.sh"]

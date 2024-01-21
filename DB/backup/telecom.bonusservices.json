@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "62c13539fa5f053dbb6759ac"
+  },
+  "key": "vCPU",
+  "minValue": "0",
+  "maxValue": "48",
+  "name": "vCPU",
+  "unit": "vCPU",
+  "unitPrices": [
+    {
+      "minValue": "1",
+      "price": 100000
+    }
+  ],
+  "currency": "VNĐ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c1414dd8c74bd6bfd05519"
+  },
+  "key": "RAM",
+  "minValue": "0",
+  "maxValue": "256",
+  "name": "RAM",
+  "unit": "RAM",
+  "unitPrices": [
+    {
+      "minValue": "1",
+      "price": 100000
+    }
+  ],
+  "currency": "VNĐ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d67a7da0cbeb8db4a54d2b"
+  },
+  "key": "BANDWIDTH",
+  "minValue": "0",
+  "maxValue": "1000",
+  "name": "Băng thông",
+  "unit": "Mbps",
+  "unitPrices": [
+    {
+      "minValue": "100",
+      "price": 8600
+    }
+  ],
+  "currency": "VNĐ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d67b42a0cbeb8db4a54d50"
+  },
+  "key": "IP",
+  "minValue": "0",
+  "maxValue": "5",
+  "name": "Ipv6",
+  "unit": "IP",
+  "unitPrices": [
+    {
+      "minValue": "1",
+      "price": 30000
+    }
+  ],
+  "currency": "VNĐ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d67bfea0cbeb8db4a54d75"
+  },
+  "key": "SSD",
+  "minValue": "0",
+  "maxValue": "2000",
+  "name": "SSD (Ổ cài hệ điều hành)",
+  "unit": "GB",
+  "unitPrices": [
+    {
+      "minValue": "10",
+      "price": 3000
+    }
+  ],
+  "currency": "VNĐ",
+  "__v": 0
+}]

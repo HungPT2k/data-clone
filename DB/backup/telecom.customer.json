@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "657bd150a5cb55241090ba9d"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "cancle": " ",
+  "name": "QUANG THẢO",
+  "address": "49/11 Hoàng Dư Khương, P12, Q.10",
+  "codeContract": "TN-1110062019",
+  "dateSign": {
+    "$date": "2019-06-09T17:00:00.000Z"
+  },
+  "dateNT": {
+    "$date": "2019-06-13T17:00:00.000Z"
+  },
+  "dateTL": " ",
+  "codeService": "DVK.SSL",
+  "groupService": "Chứng chỉ Rapid SSL",
+  "description": "www.cuoihoivietnam.com",
+  "describeIp": " Mô tả here",
+  "dateCK2": {
+    "$date": "2019-06-13T17:00:00.000Z"
+  },
+  "dateCKEnd": {
+    "$date": "2020-06-12T17:00:00.000Z"
+  },
+  "unit": "pack",
+  "quantity": 1,
+  "price": 45833.3333333333,
+  "month": 12,
+  "tax": 55000,
+  "monthTerm": {
+    "$date": "2024-06-13T17:00:00.000Z"
+  },
+  "dateTerm": {
+    "$date": "2024-06-17T17:00:00.000Z"
+  },
+  "endTerm": {
+    "$date": "2025-06-12T17:00:00.000Z"
+  },
+  "noteTBC": "Email TBC",
+  "input": "X",
+  "supplier": "PA VIỆT NAM",
+  "noteHD": " ",
+  "accountPT": "KH Công ty",
+  "contracter": "Mr.Vũ Đức Tiên",
+  "phone": "0903679809",
+  "email": "tien.cuoihoivietnam@gmail.com",
+  "createdAt": 1702613328,
+  "postage": 45833.3333333333,
+  "totalPriceBeforeTax": 550000,
+  "totalPriceAffterTax": 605000
+},
+{
+  "_id": {
+    "$oid": "657fb2e585b568b239b32d61"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "cancle": "",
+  "name": "Khách hàng 1",
+  "address": "Hà Nội",
+  "codeContract": "HĐ1",
+  "dateSign": {
+    "$date": "2023-12-17T17:00:00.000Z"
+  },
+  "dateNT": {
+    "$date": "2023-12-18T17:00:00.000Z"
+  },
+  "dateTL": "",
+  "codeService": "1",
+  "groupService": "1",
+  "description": "Không",
+  "describeIp": "Không",
+  "dateCK2": {
+    "$date": "2023-12-18T17:00:00.000Z"
+  },
+  "dateCKEnd": {
+    "$date": "2023-12-20T17:00:00.000Z"
+  },
+  "unit": "Pack",
+  "quantity": 111,
+  "price": 111111111,
+  "month": 0,
+  "tax": 1111111,
+  "monthTerm": {
+    "$date": "2023-12-25T17:00:00.000Z"
+  },
+  "dateTerm": {
+    "$date": "2023-12-27T17:00:00.000Z"
+  },
+  "endTerm": {
+    "$date": "2023-12-28T17:00:00.000Z"
+  },
+  "noteTBC": "Không",
+  "input": "Không",
+  "supplier": "Không",
+  "noteHD": "Không",
+  "accountPT": "Không",
+  "contracter": "Không",
+  "phone": "0333399778",
+  "email": "abc@gmail.com",
+  "createdAt": 1702867685,
+  "postage": {
+    "$numberLong": "12333333321"
+  },
+  "totalPriceBeforeTax": 0,
+  "totalPriceAffterTax": 1111111
+}]

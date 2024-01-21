@@ -1,0 +1,2204 @@
+[{
+  "_id": {
+    "$oid": "62e789f5c582afb902ec7718"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "vCPU",
+            "quantity": 11,
+            "unit": "vCPU",
+            "priceBeforeTax": 1100000,
+            "tax": 110000,
+            "priceAfterTax": 1210000
+          },
+          {
+            "key": "BANDWIDTH",
+            "quantity": 700,
+            "unit": "Mbps",
+            "priceBeforeTax": 6020000,
+            "tax": 602000,
+            "priceAfterTax": 6622000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 7620000,
+        "tax": 762000,
+        "priceAfterTax": 8382000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 500000,
+        "tax": 50000,
+        "priceAfterTax": 550000
+      }
+    ],
+    "totalPriceBeforeTax": 8120000,
+    "totalTax": 812000,
+    "totalPriceAfterTax": 8932000
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62e78a35c582afb902ec7728"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62e7900f7987ce99c4d318e1"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fa16cc883c1ebde4af1578"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fa1a4b883c1ebde4af157f"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "vCPU",
+            "quantity": 47,
+            "unit": "vCPU",
+            "priceBeforeTax": 4700000,
+            "tax": 470000,
+            "priceAfterTax": 5170000
+          },
+          {
+            "key": "RAM",
+            "quantity": 165,
+            "unit": "RAM",
+            "priceBeforeTax": 16500000,
+            "tax": 1650000,
+            "priceAfterTax": 18150000
+          },
+          {
+            "key": "BANDWIDTH",
+            "quantity": 700,
+            "unit": "Mbps",
+            "priceBeforeTax": 6020000,
+            "tax": 602000,
+            "priceAfterTax": 6622000
+          },
+          {
+            "key": "IP",
+            "quantity": 1,
+            "unit": "IP",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          },
+          {
+            "key": "SSD",
+            "quantity": 10,
+            "unit": "GB",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 27780000,
+        "tax": 2778000,
+        "priceAfterTax": 30558000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "vCPU",
+            "quantity": 8,
+            "unit": "vCPU",
+            "priceBeforeTax": 800000,
+            "tax": 80000,
+            "priceAfterTax": 880000
+          },
+          {
+            "key": "RAM",
+            "quantity": 68,
+            "unit": "RAM",
+            "priceBeforeTax": 6800000,
+            "tax": 680000,
+            "priceAfterTax": 7480000
+          },
+          {
+            "key": "BANDWIDTH",
+            "quantity": 800,
+            "unit": "Mbps",
+            "priceBeforeTax": 6880000,
+            "tax": 688000,
+            "priceAfterTax": 7568000
+          },
+          {
+            "key": "IP",
+            "quantity": 4,
+            "unit": "IP",
+            "priceBeforeTax": 120000,
+            "tax": 12000,
+            "priceAfterTax": 132000
+          },
+          {
+            "key": "SSD",
+            "quantity": 10,
+            "unit": "GB",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 15130000,
+        "tax": 1513000,
+        "priceAfterTax": 16643000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "vCPU",
+            "quantity": 1,
+            "unit": "vCPU",
+            "priceBeforeTax": 100000,
+            "tax": 10000,
+            "priceAfterTax": 110000
+          },
+          {
+            "key": "RAM",
+            "quantity": 1,
+            "unit": "RAM",
+            "priceBeforeTax": 100000,
+            "tax": 10000,
+            "priceAfterTax": 110000
+          },
+          {
+            "key": "BANDWIDTH",
+            "quantity": 100,
+            "unit": "Mbps",
+            "priceBeforeTax": 860000,
+            "tax": 86000,
+            "priceAfterTax": 946000
+          },
+          {
+            "key": "IP",
+            "quantity": 3,
+            "unit": "IP",
+            "priceBeforeTax": 90000,
+            "tax": 9000,
+            "priceAfterTax": 99000
+          },
+          {
+            "key": "SSD",
+            "quantity": 10,
+            "unit": "GB",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 1680000,
+        "tax": 168000,
+        "priceAfterTax": 1848000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "vCPU",
+            "quantity": 48,
+            "unit": "vCPU",
+            "priceBeforeTax": 4800000,
+            "tax": 480000,
+            "priceAfterTax": 5280000
+          },
+          {
+            "key": "RAM",
+            "quantity": 1,
+            "unit": "RAM",
+            "priceBeforeTax": 100000,
+            "tax": 10000,
+            "priceAfterTax": 110000
+          },
+          {
+            "key": "BANDWIDTH",
+            "quantity": 100,
+            "unit": "Mbps",
+            "priceBeforeTax": 860000,
+            "tax": 86000,
+            "priceAfterTax": 946000
+          },
+          {
+            "key": "IP",
+            "quantity": 1,
+            "unit": "IP",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          },
+          {
+            "key": "SSD",
+            "quantity": 1810,
+            "unit": "GB",
+            "priceBeforeTax": 5430000,
+            "tax": 543000,
+            "priceAfterTax": 5973000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 11720000,
+        "tax": 1172000,
+        "priceAfterTax": 12892000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "vCPU",
+            "quantity": 1,
+            "unit": "vCPU",
+            "priceBeforeTax": 100000,
+            "tax": 10000,
+            "priceAfterTax": 110000
+          },
+          {
+            "key": "RAM",
+            "quantity": 160,
+            "unit": "RAM",
+            "priceBeforeTax": 16000000,
+            "tax": 1600000,
+            "priceAfterTax": 17600000
+          },
+          {
+            "key": "BANDWIDTH",
+            "quantity": 100,
+            "unit": "Mbps",
+            "priceBeforeTax": 860000,
+            "tax": 86000,
+            "priceAfterTax": 946000
+          },
+          {
+            "key": "IP",
+            "quantity": 1,
+            "unit": "IP",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          },
+          {
+            "key": "SSD",
+            "quantity": 10,
+            "unit": "GB",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 17520000,
+        "tax": 1752000,
+        "priceAfterTax": 19272000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f36febdccf160d9d47da1"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 1030000,
+          "tax": 103000,
+          "priceAfterTax": 1133000
+        },
+        "bonus": [],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 1030000,
+        "tax": 103000,
+        "priceAfterTax": 1133000
+      }
+    ],
+    "totalPriceBeforeTax": 74860000,
+    "totalTax": 7486000,
+    "totalPriceAfterTax": 82346000
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fa2653883c1ebde4af1675"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fc6a942fefa702d5cdbca6"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "vCPU",
+            "quantity": 18,
+            "unit": "vCPU",
+            "priceBeforeTax": 1800000,
+            "tax": 180000,
+            "priceAfterTax": 1980000
+          },
+          {
+            "key": "RAM",
+            "quantity": 141,
+            "unit": "RAM",
+            "priceBeforeTax": 14100000,
+            "tax": 1410000,
+            "priceAfterTax": 15510000
+          },
+          {
+            "key": "BANDWIDTH",
+            "quantity": 100,
+            "unit": "Mbps",
+            "priceBeforeTax": 860000,
+            "tax": 86000,
+            "priceAfterTax": 946000
+          },
+          {
+            "key": "IP",
+            "quantity": 1,
+            "unit": "IP",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          },
+          {
+            "key": "SSD",
+            "quantity": 10,
+            "unit": "GB",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 17320000,
+        "tax": 1732000,
+        "priceAfterTax": 19052000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "vCPU",
+            "quantity": 1,
+            "unit": "vCPU",
+            "priceBeforeTax": 100000,
+            "tax": 10000,
+            "priceAfterTax": 110000
+          },
+          {
+            "key": "RAM",
+            "quantity": 1,
+            "unit": "RAM",
+            "priceBeforeTax": 100000,
+            "tax": 10000,
+            "priceAfterTax": 110000
+          },
+          {
+            "key": "BANDWIDTH",
+            "quantity": 100,
+            "unit": "Mbps",
+            "priceBeforeTax": 860000,
+            "tax": 86000,
+            "priceAfterTax": 946000
+          },
+          {
+            "key": "IP",
+            "quantity": 1,
+            "unit": "IP",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          },
+          {
+            "key": "SSD",
+            "quantity": 1110,
+            "unit": "GB",
+            "priceBeforeTax": 3330000,
+            "tax": 333000,
+            "priceAfterTax": 3663000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 4920000,
+        "tax": 492000,
+        "priceAfterTax": 5412000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f369cbdccf160d9d47d8f"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 760000,
+          "tax": 76000,
+          "priceAfterTax": 836000
+        },
+        "bonus": [
+          {
+            "key": "vCPU",
+            "quantity": 20,
+            "unit": "vCPU",
+            "priceBeforeTax": 2000000,
+            "tax": 200000,
+            "priceAfterTax": 2200000
+          },
+          {
+            "key": "RAM",
+            "quantity": 179,
+            "unit": "RAM",
+            "priceBeforeTax": 17900000,
+            "tax": 1790000,
+            "priceAfterTax": 19690000
+          },
+          {
+            "key": "BANDWIDTH",
+            "quantity": 900,
+            "unit": "Mbps",
+            "priceBeforeTax": 7740000,
+            "tax": 774000,
+            "priceAfterTax": 8514000
+          },
+          {
+            "key": "IP",
+            "quantity": 4,
+            "unit": "IP",
+            "priceBeforeTax": 120000,
+            "tax": 12000,
+            "priceAfterTax": 132000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 28520000,
+        "tax": 2852000,
+        "priceAfterTax": 31372000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "vCPU",
+            "quantity": 1,
+            "unit": "vCPU",
+            "priceBeforeTax": 100000,
+            "tax": 10000,
+            "priceAfterTax": 110000
+          },
+          {
+            "key": "RAM",
+            "quantity": 1,
+            "unit": "RAM",
+            "priceBeforeTax": 100000,
+            "tax": 10000,
+            "priceAfterTax": 110000
+          },
+          {
+            "key": "BANDWIDTH",
+            "quantity": 100,
+            "unit": "Mbps",
+            "priceBeforeTax": 860000,
+            "tax": 86000,
+            "priceAfterTax": 946000
+          },
+          {
+            "key": "IP",
+            "quantity": 1,
+            "unit": "IP",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          },
+          {
+            "key": "SSD",
+            "quantity": 10,
+            "unit": "GB",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 1620000,
+        "tax": 162000,
+        "priceAfterTax": 1782000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f369cbdccf160d9d47d8f"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 760000,
+          "tax": 76000,
+          "priceAfterTax": 836000
+        },
+        "bonus": [],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 760000,
+        "tax": 76000,
+        "priceAfterTax": 836000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f369cbdccf160d9d47d8f"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 760000,
+          "tax": 76000,
+          "priceAfterTax": 836000
+        },
+        "bonus": [],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 760000,
+        "tax": 76000,
+        "priceAfterTax": 836000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "vCPU",
+            "quantity": 1,
+            "unit": "vCPU",
+            "priceBeforeTax": 100000,
+            "tax": 10000,
+            "priceAfterTax": 110000
+          },
+          {
+            "key": "RAM",
+            "quantity": 1,
+            "unit": "RAM",
+            "priceBeforeTax": 100000,
+            "tax": 10000,
+            "priceAfterTax": 110000
+          },
+          {
+            "key": "BANDWIDTH",
+            "quantity": 100,
+            "unit": "Mbps",
+            "priceBeforeTax": 860000,
+            "tax": 86000,
+            "priceAfterTax": 946000
+          },
+          {
+            "key": "IP",
+            "quantity": 1,
+            "unit": "IP",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          },
+          {
+            "key": "SSD",
+            "quantity": 10,
+            "unit": "GB",
+            "priceBeforeTax": 30000,
+            "tax": 3000,
+            "priceAfterTax": 33000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 1620000,
+        "tax": 162000,
+        "priceAfterTax": 1782000
+      }
+    ],
+    "totalPriceBeforeTax": 55520000,
+    "totalTax": 5552000,
+    "totalPriceAfterTax": 61072000
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fc784f2fefa702d5cdbcb2"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fdbb65c9dc3baba3517b70"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "vCPU",
+            "quantity": 10,
+            "unit": "vCPU",
+            "priceBeforeTax": 1000000,
+            "tax": 100000,
+            "priceAfterTax": 1100000
+          },
+          {
+            "key": "RAM",
+            "quantity": 80,
+            "unit": "RAM",
+            "priceBeforeTax": 8000000,
+            "tax": 800000,
+            "priceAfterTax": 8800000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 9500000,
+        "tax": 950000,
+        "priceAfterTax": 10450000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 500000,
+        "tax": 50000,
+        "priceAfterTax": 550000
+      }
+    ],
+    "totalPriceBeforeTax": 10000000,
+    "totalTax": 1000000,
+    "totalPriceAfterTax": 11000000
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ff09fd2fefa702d5cdbe63"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63033508092ba34bdb0d78be"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63033558092ba34bdb0d78c7"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63033a2d092ba34bdb0d793a"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63033a7a092ba34bdb0d795e"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63033c06092ba34bdb0d79b6"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63033cf3092ba34bdb0d79d5"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6305ab65831c1892e34caedd"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6308e723831c1892e34cbe1b"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63099fd5831c1892e34cc026"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 500000,
+        "tax": 50000,
+        "priceAfterTax": 550000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "vCPU",
+            "quantity": 10,
+            "unit": "vCPU",
+            "priceBeforeTax": 1000000,
+            "tax": 100000,
+            "priceAfterTax": 1100000
+          },
+          {
+            "key": "RAM",
+            "quantity": 80,
+            "unit": "RAM",
+            "priceBeforeTax": 8000000,
+            "tax": 800000,
+            "priceAfterTax": 8800000
+          },
+          {
+            "key": "BANDWIDTH",
+            "quantity": 500,
+            "unit": "Mbps",
+            "priceBeforeTax": 4300000,
+            "tax": 430000,
+            "priceAfterTax": 4730000
+          },
+          {
+            "key": "IP",
+            "quantity": 2,
+            "unit": "IP",
+            "priceBeforeTax": 60000,
+            "tax": 6000,
+            "priceAfterTax": 66000
+          },
+          {
+            "key": "SSD",
+            "quantity": 1110,
+            "unit": "GB",
+            "priceBeforeTax": 3330000,
+            "tax": 333000,
+            "priceAfterTax": 3663000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 17190000,
+        "tax": 1719000,
+        "priceAfterTax": 18909000
+      }
+    ],
+    "totalPriceBeforeTax": 17690000,
+    "totalTax": 1769000,
+    "totalPriceAfterTax": 19459000
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6326c02a66d5ad2e09a1e36e"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6326c0ac66d5ad2e09a1e376"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "632acd6592d397b33a29da47"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63b7c47fa555ee592aa9de40"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63b7ca56a555ee592aa9e102"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63b90fc6a555ee592aa9e5f3"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 500000,
+        "tax": 50000,
+        "priceAfterTax": 550000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f369cbdccf160d9d47d8f"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 760000,
+          "tax": 76000,
+          "priceAfterTax": 836000
+        },
+        "bonus": [],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 760000,
+        "tax": 76000,
+        "priceAfterTax": 836000
+      }
+    ],
+    "totalPriceBeforeTax": 1260000,
+    "totalTax": 126000,
+    "totalPriceAfterTax": 1386000
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63ba1d53a555ee592aa9e7d5"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c61223a555ee592aaa0d2c"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c626eba555ee592aaa1410"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641ab9e4b655f8f824605885"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64255508b655f8f824607d3b"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64411564b655f8f82460f7dd"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6455bb5db655f8f824614a29"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645a2495401163fb33976c40"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645ca0d7401163fb339a2573"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645ca0f0401163fb339a25be"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64648304401163fb339a8208"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646724b2ad59e8de88bb63b7"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646b1cca54b14217f680dea1"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 500000,
+        "tax": 50000,
+        "priceAfterTax": 550000
+      }
+    ],
+    "totalPriceBeforeTax": 500000,
+    "totalTax": 50000,
+    "totalPriceAfterTax": 550000
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646dc01a54b14217f680f68e"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b8613433722bee84bd38ee"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64be674633722bee84bd6ef9"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cb187333722bee84bdd6ac"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5c34733722bee84be8f12"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5841c33722bee84beec15"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f6e4e733722bee84bef60d"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 500000,
+        "tax": 50000,
+        "priceAfterTax": 550000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 500000,
+        "tax": 50000,
+        "priceAfterTax": 550000
+      },
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "vCPU",
+            "quantity": 0,
+            "unit": "vCPU",
+            "priceBeforeTax": 0,
+            "tax": 0,
+            "priceAfterTax": 0
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 500000,
+        "tax": 50000,
+        "priceAfterTax": 550000
+      }
+    ],
+    "totalPriceBeforeTax": 1500000,
+    "totalTax": 150000,
+    "totalPriceAfterTax": 1650000
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650bacfcd1ab883fbbf85ee3"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "63215a05bdccf160d9d4deb1"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 1830000,
+          "tax": 183000,
+          "priceAfterTax": 2013000
+        },
+        "bonus": [
+          {
+            "key": "vCPU",
+            "quantity": 0,
+            "unit": "vCPU",
+            "priceBeforeTax": 0,
+            "tax": 0,
+            "priceAfterTax": 0
+          },
+          {
+            "key": "RAM",
+            "quantity": 7,
+            "unit": "RAM",
+            "priceBeforeTax": 700000,
+            "tax": 70000,
+            "priceAfterTax": 770000
+          },
+          {
+            "key": "BANDWIDTH",
+            "quantity": 100,
+            "unit": "Mbps",
+            "priceBeforeTax": 860000,
+            "tax": 86000,
+            "priceAfterTax": 946000
+          },
+          {
+            "key": "IP",
+            "quantity": 2,
+            "unit": "IP",
+            "priceBeforeTax": 60000,
+            "tax": 6000,
+            "priceAfterTax": 66000
+          },
+          {
+            "key": "SSD",
+            "quantity": 300,
+            "unit": "GB",
+            "priceBeforeTax": 900000,
+            "tax": 90000,
+            "priceAfterTax": 990000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 4350000,
+        "tax": 435000,
+        "priceAfterTax": 4785000
+      }
+    ],
+    "totalPriceBeforeTax": 4350000,
+    "totalTax": 435000,
+    "totalPriceAfterTax": 4785000
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650bbfd2d1ab883fbbf862bc"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650d056dd1ab883fbbf871d9"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "vCPU",
+            "quantity": 0,
+            "unit": "vCPU",
+            "priceBeforeTax": 0,
+            "tax": 0,
+            "priceAfterTax": 0
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 500000,
+        "tax": 50000,
+        "priceAfterTax": 550000
+      }
+    ],
+    "totalPriceBeforeTax": 500000,
+    "totalTax": 50000,
+    "totalPriceAfterTax": 550000
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ceba9d1ab883fbbf91af4"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ceee8d1ab883fbbf91ba4"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [
+          {
+            "key": "vCPU",
+            "quantity": 10,
+            "unit": "vCPU",
+            "priceBeforeTax": 1000000,
+            "tax": 100000,
+            "priceAfterTax": 1100000
+          },
+          {
+            "key": "RAM",
+            "quantity": 58,
+            "unit": "RAM",
+            "priceBeforeTax": 5800000,
+            "tax": 580000,
+            "priceAfterTax": 6380000
+          },
+          {
+            "key": "BANDWIDTH",
+            "quantity": 500,
+            "unit": "Mbps",
+            "priceBeforeTax": 4300000,
+            "tax": 430000,
+            "priceAfterTax": 4730000
+          },
+          {
+            "key": "IP",
+            "quantity": 2,
+            "unit": "IP",
+            "priceBeforeTax": 60000,
+            "tax": 6000,
+            "priceAfterTax": 66000
+          },
+          {
+            "key": "SSD",
+            "quantity": 900,
+            "unit": "GB",
+            "priceBeforeTax": 2700000,
+            "tax": 270000,
+            "priceAfterTax": 2970000
+          }
+        ],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 14360000,
+        "tax": 1436000,
+        "priceAfterTax": 15796000
+      }
+    ],
+    "totalPriceBeforeTax": 14360000,
+    "totalTax": 1436000,
+    "totalPriceAfterTax": 15796000
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652418afd1ab883fbbf961f9"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 500000,
+        "tax": 50000,
+        "priceAfterTax": 550000
+      }
+    ],
+    "totalPriceBeforeTax": 500000,
+    "totalTax": 50000,
+    "totalPriceAfterTax": 550000
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6530a0b6d1ab883fbbf9dc7e"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [
+      {
+        "product": {
+          "servicePack": {
+            "$oid": "630f35fbbdccf160d9d47d86"
+          },
+          "quantity": 1,
+          "priceBeforeTax": 500000,
+          "tax": 50000,
+          "priceAfterTax": 550000
+        },
+        "bonus": [],
+        "duration": {
+          "value": 1,
+          "unit": "Tháng"
+        },
+        "priceBeforeTax": 500000,
+        "tax": 50000,
+        "priceAfterTax": 550000
+      }
+    ],
+    "totalPriceBeforeTax": 500000,
+    "totalTax": 50000,
+    "totalPriceAfterTax": 550000
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653b3721913b79f42558b05c"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6575aa5f913b79f425a373f9"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65768dbb913b79f425a3841e"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65869beb913b79f425a4dd2d"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a804e913b79f425a520d7"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ba63b913b79f425a5374e"
+  },
+  "instantPaymentProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "registrationProduct": {
+    "products": [],
+    "totalPriceBeforeTax": 0,
+    "totalTax": 0,
+    "totalPriceAfterTax": 0
+  },
+  "__v": 0
+}]

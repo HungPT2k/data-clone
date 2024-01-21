@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "632834115007b474be4e5592"
+  },
+  "title": "Hạ tầng máy chủ lưu trữ",
+  "icon": "https://graph.metaserv.vn/public/solution-category/icons/765ec1c956710c5f00ab87d6da9f2f5b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "632834255007b474be4e5597"
+  },
+  "title": "Sao lưu & dự phòng dữ liệu",
+  "icon": "https://graph.metaserv.vn/public/solution-category/icons/adf95bed12af4b41e5d3a24d0416a45f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6328343d5007b474be4e559c"
+  },
+  "title": "Ứng dụng & thiết bị văn phòng",
+  "icon": "https://graph.metaserv.vn/public/solution-category/icons/edbc3585be20484342169fba73fca743",
+  "__v": 0
+}]

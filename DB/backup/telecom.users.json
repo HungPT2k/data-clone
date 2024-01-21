@@ -1,0 +1,1311 @@
+[{
+  "_id": {
+    "$oid": "62e789f5c582afb902ec7717"
+  },
+  "authentication": {
+    "email": "letrunghieu.nalee@gmail.com",
+    "password": "$2b$10$49dDnDfptPG6pylZJoj4FuwhI7n/LgRTrfypN4aKCTXXU/1bvAGyq",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "sadljfsa",
+    "name": "asdfsadf",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0907671368"
+  },
+  "cart": {
+    "$oid": "62e789f5c582afb902ec7718"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62e78a35c582afb902ec7727"
+  },
+  "authentication": {
+    "email": "bdkhanh90@gmail.com",
+    "password": "$2b$10$H8EUx1CSBFUTqW4AYwRgxeIelVHEZqBZ1OyF7Hmsm.fUB7e2lCRri",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Khanh Bui",
+    "name": "Khanh Bui Dinh",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "+84908687111"
+  },
+  "cart": {
+    "$oid": "62e78a35c582afb902ec7728"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62e7900f7987ce99c4d318e0"
+  },
+  "authentication": {
+    "email": "huyennn3n@gmail.com",
+    "password": "$2b$10$kSG/7qRkpqFTzLIU.Je4YOqDbmDBnrSegNR2haXqbr//HTxox6i7K",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Phạm Diệu",
+    "name": "Huyền",
+    "gender": "Bà",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0328389107"
+  },
+  "cart": {
+    "$oid": "62e7900f7987ce99c4d318e1"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fa16cc883c1ebde4af1577"
+  },
+  "authentication": {
+    "email": "test@gmail.com",
+    "password": "$2b$10$FOkbx6N5gXFEFj0f3Ok2m.qIUgUoY9ykQzT1CCmBcKzFWaOAun1eu",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Test",
+    "name": "Test",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0907671368"
+  },
+  "cart": {
+    "$oid": "62fa16cc883c1ebde4af1578"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fa1a4b883c1ebde4af157e"
+  },
+  "authentication": {
+    "email": "tamvm@dtstelecom.com.vn",
+    "password": "$2b$10$kHun46hDA.4/4eAqfQiyN.a5KqWP/yVIYNY.0nDdVeaG0LlC1.gFi",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Minh",
+    "name": "Tâm",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0966675121"
+  },
+  "cart": {
+    "$oid": "62fa1a4b883c1ebde4af157f"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fa2653883c1ebde4af1674"
+  },
+  "authentication": {
+    "email": "bdkhanh.pt@gmail.com",
+    "password": "$2b$10$QCijWc6Jm4qY9yIHVaAqWuAGuoKcA1afIBxwnTgE0OOhTIjSBSnYO",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Khanh Bui",
+    "name": "Khanh",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0908687111"
+  },
+  "cart": {
+    "$oid": "62fa2653883c1ebde4af1675"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fc6a942fefa702d5cdbca5"
+  },
+  "authentication": {
+    "email": "vinhtq@dts.com.vn",
+    "password": "$2b$10$5bbovfOJnhH.KCLaxxxqUOPAW/g/lDxlOZfaluzz8ZEvSCIYMCwt.",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Tran",
+    "name": "Vinh",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0376521705"
+  },
+  "cart": {
+    "$oid": "62fc6a942fefa702d5cdbca6"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fc784f2fefa702d5cdbcb1"
+  },
+  "authentication": {
+    "email": "minhnh@dtstelecom.com.vn",
+    "password": "$2b$10$JfQjYf5OIV.5wIhEvHAvx.srJ45MJM98eZ7S4y86a52upLetzYKhu",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Nguyen",
+    "name": "Minh",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0976194789"
+  },
+  "cart": {
+    "$oid": "62fc784f2fefa702d5cdbcb2"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fdbb65c9dc3baba3517b6f"
+  },
+  "authentication": {
+    "email": "d01634525618@gmail.com",
+    "password": "$2b$10$NzRoWkDZitINlg8yh0Uj7eo48msCcPyHAsBfc6Viw18FTx5ijVJ/u",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "dinhkhanh",
+    "name": "duy",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0349115113"
+  },
+  "cart": {
+    "$oid": "62fdbb65c9dc3baba3517b70"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ff09fd2fefa702d5cdbe62"
+  },
+  "authentication": {
+    "email": "d0349115113@gmail.com",
+    "password": "$2b$10$5h0Lybu6oC07eJcEig6BeuJpx0jGzKyZul4DlKMfccehsqd9MBWp2",
+    "avatar": "sdajhgklsdhgabfhj/asdggadsg"
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "duyduyd duy",
+    "name": "duy",
+    "gender": "nam",
+    "dayOfBirth": null,
+    "address": "fasdf",
+    "phoneNumber": "0349115113"
+  },
+  "cart": {
+    "$oid": "62ff09fd2fefa702d5cdbe63"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63033508092ba34bdb0d78bd"
+  },
+  "authentication": {
+    "email": "minhnn@dts.com.vn",
+    "password": "$2b$10$SPnIQArAzcJVywk/rMAMaOwM9SvannG7SbU09ewBe3Nr3tMjShmhi",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Nguyễn Nguyệt",
+    "name": "Minh",
+    "gender": "Bà",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0932226903"
+  },
+  "cart": {
+    "$oid": "63033508092ba34bdb0d78be"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63033558092ba34bdb0d78c6"
+  },
+  "authentication": {
+    "email": "huongltt@saigonctt.com.vn",
+    "password": "$2b$10$EQjLR/rslDuTcYlcb3AmUuKo/g8h/kwrAHMKWWgUEhTmc/i3NMo3a",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Thu ",
+    "name": "Hương",
+    "gender": "Bà",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0896620102"
+  },
+  "cart": {
+    "$oid": "63033558092ba34bdb0d78c7"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63033a2d092ba34bdb0d7939"
+  },
+  "authentication": {
+    "email": "huongltt@dts.com.vn",
+    "password": "$2b$10$8p300Mpxr2ff7nYfWyHGvelf.hUgr./OosdnCHjWl5ZGzqUt.xVnO",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Le",
+    "name": "Huong",
+    "gender": "Bà",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0896620102"
+  },
+  "cart": {
+    "$oid": "63033a2d092ba34bdb0d793a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63033a7a092ba34bdb0d795d"
+  },
+  "authentication": {
+    "email": "minhnn@dts.om.vn",
+    "password": "$2b$10$tUveE/pLCPtTLbecatYkHOlAJ0Os.c3L6iC23tyPpNh99vNiCwynq",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Nguyet",
+    "name": "Minh",
+    "gender": "Bà",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0932226903"
+  },
+  "cart": {
+    "$oid": "63033a7a092ba34bdb0d795e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63033c06092ba34bdb0d79b5"
+  },
+  "authentication": {
+    "email": "minhnn@saigonctt.com.vn",
+    "password": "$2b$10$WvV5Gv./lLe88WW8rOSjf.f1faPKbEtMFb9Anfxo9S.vJBjbk.bz6",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Nguyet",
+    "name": "Minh",
+    "gender": "Bà",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0932226903"
+  },
+  "cart": {
+    "$oid": "63033c06092ba34bdb0d79b6"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63033cf3092ba34bdb0d79d4"
+  },
+  "authentication": {
+    "email": "uyennt@dts.com.vn",
+    "password": "$2b$10$vaIMvSJ1iuhDIu1scyKbGeokWxsfDLb8kjLCleofFSWbLZLhgFh1S",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Nguyen",
+    "name": "Uyen",
+    "gender": "Bà",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0938891232"
+  },
+  "cart": {
+    "$oid": "63033cf3092ba34bdb0d79d5"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6305ab65831c1892e34caedc"
+  },
+  "authentication": {
+    "email": "abcdefi@dts.com.vn",
+    "password": "$2b$10$C5ZZtr26oCjtd75npl8KkOLRFQOY0oKlNGmSk.tEkDGeYNDUsYRdS",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "DTS",
+    "name": "Checker",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "+84901123123"
+  },
+  "cart": {
+    "$oid": "6305ab65831c1892e34caedd"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6308e723831c1892e34cbe1a"
+  },
+  "authentication": {
+    "email": "omaoo@gmail.com",
+    "password": "$2b$10$7A.sEzMdaATBAOet8sjOruLkwm4OPiXdW9sT1O.E1IVVfIQMz67A.",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Vương Tâm",
+    "name": "Tâm",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0912312312"
+  },
+  "cart": {
+    "$oid": "6308e723831c1892e34cbe1b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63099fd5831c1892e34cc025"
+  },
+  "authentication": {
+    "email": "linhlinhndntp@gmail.com",
+    "password": "$2b$10$TmrNhZe0Q.A2mGV77XIHDe4Ug8Naml25WlQojTe.JDmQyL7lowwfO",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "DTS",
+    "name": "Checker",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "+84902045123"
+  },
+  "cart": {
+    "$oid": "63099fd5831c1892e34cc026"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6326c02a66d5ad2e09a1e36d"
+  },
+  "authentication": {
+    "email": "tranquangvinh0110@gmail.com",
+    "password": "$2b$10$sY28C8GwxjAiSBaFsqLQL.jEBY42Tj2HeCOpDplO0L.pbt3sobQOi",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Tran",
+    "name": "Vinh",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0376521705"
+  },
+  "cart": {
+    "$oid": "6326c02a66d5ad2e09a1e36e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6326c0ac66d5ad2e09a1e375"
+  },
+  "authentication": {
+    "email": "tranquangvinh@gmail.com",
+    "password": "$2b$10$OffK7OB5gcXhd5tujOlYLOTiKFaC0fSEDTr1PByLiQwKJ4u93qNMG",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Tran",
+    "name": "Vinh",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0376521705"
+  },
+  "cart": {
+    "$oid": "6326c0ac66d5ad2e09a1e376"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "632acd6592d397b33a29da46"
+  },
+  "authentication": {
+    "email": "ttung2k23@gmail.com",
+    "password": "$2b$10$.gXQF3IA/J7rETKYu025pu9Tg4ULrUjbL2dsw6lHEB4fkSqT3qW1i",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Nguyen Van",
+    "name": "Tung",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0329778159"
+  },
+  "cart": {
+    "$oid": "632acd6592d397b33a29da47"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63b7c47fa555ee592aa9de3f"
+  },
+  "authentication": {
+    "email": "vinhtq@gmail.com",
+    "password": "$2b$10$sbT9EZCZHDJmfIKFrzC15Oj8OxxJZTEJc6YKhfo.962EUZ5ZSyl/.",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Tran",
+    "name": "Vinh",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0376521705"
+  },
+  "cart": {
+    "$oid": "63b7c47fa555ee592aa9de40"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63b7ca56a555ee592aa9e101"
+  },
+  "authentication": {
+    "email": "vinhtq@dts.com",
+    "password": "$2b$10$1xsbTnkrtYh.nYaGUZmjveDi8xNdwK.FpOvGyk7oHD75v.mPKe.Iq",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Tran",
+    "name": "Vinh",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0376521705"
+  },
+  "cart": {
+    "$oid": "63b7ca56a555ee592aa9e102"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63b90fc6a555ee592aa9e5f2"
+  },
+  "authentication": {
+    "email": "vinhtran0110@gmail.com",
+    "password": "$2b$10$f4QPaRaxrKcRwkuRXZ7zQekSdIsdlpdhyKlEk7uGoAiuX7Gaer48S",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "tran",
+    "name": "vinh",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0376521705"
+  },
+  "cart": {
+    "$oid": "63b90fc6a555ee592aa9e5f3"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63ba1d53a555ee592aa9e7d4"
+  },
+  "authentication": {
+    "email": "vinh@gmail.com",
+    "password": "$2b$10$a5W2YpG6ip/821L3Emvlj.GwgRZkOftX5G9AIw1A1iAYDgk6R4z9.",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Tran",
+    "name": "Trần Quang Vinh",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0376521705"
+  },
+  "cart": {
+    "$oid": "63ba1d53a555ee592aa9e7d5"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c61223a555ee592aaa0d2b"
+  },
+  "authentication": {
+    "email": "tungnv@dts.com.vn",
+    "password": "$2b$10$2esEWtCmefNjgKzFmlKQv.L9ozpkcVyFV32DerGGvMDyQHd26Kj8m",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Nguyen Van",
+    "name": "Thanh",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0321668158"
+  },
+  "cart": {
+    "$oid": "63c61223a555ee592aaa0d2c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c626eba555ee592aaa140f"
+  },
+  "authentication": {
+    "email": "vinhtranquang@gmail.com",
+    "password": "$2b$10$dTkpz8t0cvYKOpa44U9C4uzRPNoYx5gIuSQNORXWqPmEox1luECQu",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "tran",
+    "name": "vinh",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0376521705"
+  },
+  "cart": {
+    "$oid": "63c626eba555ee592aaa1410"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641ab9e4b655f8f824605884"
+  },
+  "authentication": {
+    "email": "tuanpm312@gmail.com",
+    "password": "$2b$10$JWfsRjNiG8g/oDOr7hkfTu5SaQWGjuTwbB6rCotoTXSYEkvNrxS3y",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Pham",
+    "name": "Tuan",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0905297312"
+  },
+  "cart": {
+    "$oid": "641ab9e4b655f8f824605885"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64255508b655f8f824607d3a"
+  },
+  "authentication": {
+    "email": "tuanpm@dtstelecom.com.vn",
+    "password": "$2b$10$6ezlW9qfjaQYg1Y8YINhPO6P86vEh7C8GNMkWdUofFZ4F.pilHqN6",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Phạm",
+    "name": "Tuấn",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0905297312"
+  },
+  "cart": {
+    "$oid": "64255508b655f8f824607d3b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64411564b655f8f82460f7dc"
+  },
+  "authentication": {
+    "email": "huyca@dts.com.vn",
+    "password": "$2b$10$ebHjOyXcC7E8ECewHWxULeaCvFoAKluE1aNFTMvlzMnofNC4vH98m",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Huy",
+    "name": "Cao",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0329143036"
+  },
+  "cart": {
+    "$oid": "64411564b655f8f82460f7dd"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6455bb5db655f8f824614a28"
+  },
+  "authentication": {
+    "email": "nquyet76@gmail.com",
+    "password": "$2b$10$3N7yfR4n15jrdYvK.FmmGuWuWHqNiwX/f.jW5QFKYYtnq5hBl2U.K",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Nguyen Duc",
+    "name": "Quyet",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0336696662"
+  },
+  "cart": {
+    "$oid": "6455bb5db655f8f824614a29"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645a2495401163fb33976c3f"
+  },
+  "authentication": {
+    "email": "huyca@metaserv.vn",
+    "password": "$2b$10$rWzYyAwoYYx87E5ckRhBx.uu81QuT6gbCEeDmQT4yhZzqxvZqWfmy",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Huy",
+    "name": "Cao",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0329143036"
+  },
+  "cart": {
+    "$oid": "645a2495401163fb33976c40"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645ca0d7401163fb339a2572"
+  },
+  "authentication": {
+    "email": "cuonghm@dts.com.vn",
+    "password": "$2b$10$VuBA8O2gSfo0xx1hbYd8jOxp6Ja0657UDGVC8QGm/ndDtK/lc/dB6",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "cuong",
+    "name": "ho",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0945332227"
+  },
+  "cart": {
+    "$oid": "645ca0d7401163fb339a2573"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645ca0f0401163fb339a25bd"
+  },
+  "authentication": {
+    "email": "anhnm@dts.com.vn",
+    "password": "$2b$10$qCddMgQfRW3uK59betJQ9evY5rbBFpzzsN8uR8ySDQnpeuSTFV8Yu",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "nguyen minh",
+    "name": "anh",
+    "gender": "Bà",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0834735868"
+  },
+  "cart": {
+    "$oid": "645ca0f0401163fb339a25be"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64648304401163fb339a8207"
+  },
+  "authentication": {
+    "email": "Vin@gmail.com",
+    "password": "$2b$10$XWhg3JPG8HYM.TqucBpHJO/XKLPKOwcO0UUbLc/9IhcE0Q.OPNGP2",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Tran",
+    "name": "Trần Quang Vinh",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0376521705"
+  },
+  "cart": {
+    "$oid": "64648304401163fb339a8208"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646724b2ad59e8de88bb63b6"
+  },
+  "authentication": {
+    "email": "huonglaw9712@gmail.com",
+    "password": "$2b$10$2tU25ndnZhI6w72TnI3Iq.2Z04RaQIaw2SxZTfAeY7daqjYAziNx2",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Hương ",
+    "name": "Thu ",
+    "gender": "Bà",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0896620102"
+  },
+  "cart": {
+    "$oid": "646724b2ad59e8de88bb63b7"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646b1cca54b14217f680dea0"
+  },
+  "authentication": {
+    "email": "anhnth@dts.com.vn",
+    "password": "$2b$10$uUTj96eF5bP4horAChwVUOT0NE6G3zUI1uBrwyGUMgXp5/kpBc15O",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Ha Anh",
+    "name": "Nguyen",
+    "gender": "Bà",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0376980076"
+  },
+  "cart": {
+    "$oid": "646b1cca54b14217f680dea1"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646dc01a54b14217f680f68d"
+  },
+  "authentication": {
+    "email": "anhhuy.cao@gmail.com",
+    "password": "$2b$10$SthurgkN394amZl.zVckDOvyVstJD0.0iITUkOHtYIWwmlq04cayO",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Cao",
+    "name": "Huy",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0329143036"
+  },
+  "cart": {
+    "$oid": "646dc01a54b14217f680f68e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b8613433722bee84bd38ed"
+  },
+  "authentication": {
+    "email": "ntandung@gmail.com",
+    "password": "$2b$10$GAnc6USf9NMdawecQ.mi1OBDHmumiAVkCDiuTWGEPGZcUeu/qnJdq",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Nguyễn Tấn",
+    "name": "Dũng",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0968889099"
+  },
+  "cart": {
+    "$oid": "64b8613433722bee84bd38ee"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64be674633722bee84bd6ef8"
+  },
+  "authentication": {
+    "email": "r4.thanhvu@gmail.com",
+    "password": "$2b$10$G5AfZs3J845gGBfxvDa0wO4U2TRvY0QLfPfhlCmS0zK3uJ/I8iAx6",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Phan Nguy Thanh",
+    "name": "Vu",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0905566373"
+  },
+  "cart": {
+    "$oid": "64be674633722bee84bd6ef9"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cb187333722bee84bdd6ab"
+  },
+  "authentication": {
+    "email": "metaserv@gmail.com",
+    "password": "$2b$10$npurpF5K6IXZbx/PNVBsROqmH0uyk4uravMRS7sKIgpVeLQh4DAMm",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "metaserv",
+    "name": "metaserv",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0376521705"
+  },
+  "cart": {
+    "$oid": "64cb187333722bee84bdd6ac"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5c34733722bee84be8f11"
+  },
+  "authentication": {
+    "email": "vinhtran_0110@gmail.com",
+    "password": "$2b$10$jkuAIfoCU21WBPNCUsvR9up2BTMD5UAYjcvlR1smvlrnPvIrm2A2S",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Tran",
+    "name": "Trần Quang Vinh",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0376521705"
+  },
+  "cart": {
+    "$oid": "64e5c34733722bee84be8f12"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5841c33722bee84beec14"
+  },
+  "authentication": {
+    "email": "admin@kientre.com.vn",
+    "password": "$2b$10$1qlDtPTwkRr6zykX83HWku.nedWTEh3z43znw5IHOL83zlSMfDCSG",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Lê Văn",
+    "name": "Dương",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0981838073"
+  },
+  "cart": {
+    "$oid": "64f5841c33722bee84beec15"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f6e4e733722bee84bef60c"
+  },
+  "authentication": {
+    "email": "minhnh@metaserv.vn",
+    "password": "$2b$10$RPfwCnmkqYx93bKW7B8tZ.VRxtIEU8VunYj70Es1/qJKYXsxb5/Su",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Nguyễn Hoàng",
+    "name": "Minh",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0976194789"
+  },
+  "cart": {
+    "$oid": "64f6e4e733722bee84bef60d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650bacfcd1ab883fbbf85ee2"
+  },
+  "authentication": {
+    "email": "phuongnl@metaserv.vn",
+    "password": "$2b$10$uU04GigxnPJH8X70DT42yem7At79vnF/U1tP2yuatzLLvPJu3MLTW",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Lan",
+    "name": "Phuong",
+    "gender": "Bà",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0999123456"
+  },
+  "cart": {
+    "$oid": "650bacfcd1ab883fbbf85ee3"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650bbfd2d1ab883fbbf862bb"
+  },
+  "authentication": {
+    "email": "trungbeo2042001@gmail.com",
+    "password": "$2b$10$.8JaTTx4Qf9lMkwLyFkTb.eyBlE5bSltf21JCrKO7IYC5tDPnY.Wu",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Trung123",
+    "name": "Trung Trần",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0858795785"
+  },
+  "cart": {
+    "$oid": "650bbfd2d1ab883fbbf862bc"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650d056dd1ab883fbbf871d8"
+  },
+  "authentication": {
+    "email": "uyen.ajc@gmail.com",
+    "password": "$2b$10$ttUWKauP/YcsALepko6GeOziRRVlIDOjPbpT8Fs948CZu89xBAHYe",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Nguyễn Thị Uyên",
+    "name": "Uyên",
+    "gender": "Bà",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0938891232"
+  },
+  "cart": {
+    "$oid": "650d056dd1ab883fbbf871d9"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ceba9d1ab883fbbf91af3"
+  },
+  "authentication": {
+    "email": "admin@metaserv.vn",
+    "password": "$2b$10$ymJOsAFf.gZDx9OOWv40DOdvK8S7W54Fqv4dro49kDTeR0LOK3dPm",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "metaserv",
+    "name": "metaserv",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0987654321"
+  },
+  "cart": {
+    "$oid": "651ceba9d1ab883fbbf91af4"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ceee8d1ab883fbbf91ba3"
+  },
+  "authentication": {
+    "email": "trongnk2001@gmail.com",
+    "password": "$2b$10$Y9tUK7dGYKw2F47wN3khn.o5lrrlVfkPbH6Nnm/78RmXoRvrK5cnq",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Nguyễn Khắc",
+    "name": "Trọng",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0333399778"
+  },
+  "cart": {
+    "$oid": "651ceee8d1ab883fbbf91ba4"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652418afd1ab883fbbf961f8"
+  },
+  "authentication": {
+    "email": "tritt@metaserv.vn",
+    "password": "$2b$10$1EWsUWk1wBxrkEe.1.zCCe8LQ.tDp8AN4Qp407gSK2kw73BfHMxPq",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Tran",
+    "name": "Tri",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0903123456"
+  },
+  "cart": {
+    "$oid": "652418afd1ab883fbbf961f9"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6530a0b6d1ab883fbbf9dc7d"
+  },
+  "authentication": {
+    "email": "user1@gmail.com",
+    "password": "$2b$10$O.05LyIIgs0b75s22Mexqe7JzORBjPatQ2wzEnCX4fO0ZXyaN2hui",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Tran Trung",
+    "name": "trung",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0858795785"
+  },
+  "cart": {
+    "$oid": "6530a0b6d1ab883fbbf9dc7e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "653b3721913b79f42558b05b"
+  },
+  "authentication": {
+    "email": "chung.vu@netmark.com.vn",
+    "password": "$2b$10$BGuZv4sSS68TrOawfm1aLOeMgQ/XUmua5YUKhnMSFBjVvkxRJbLeO",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Vũ Văn Chung",
+    "name": "Chung",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0916814464"
+  },
+  "cart": {
+    "$oid": "653b3721913b79f42558b05c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6575aa5f913b79f425a373f8"
+  },
+  "authentication": {
+    "email": "catdzx14@gmail.com",
+    "password": "$2b$10$GhRuwu2VBdtlOcRd9lrakONXc2Zq3HfDF5imBTejD8mck6PvMaUfW",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Hoàng",
+    "name": "Hoàng Văn Cát",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "+84393724893"
+  },
+  "cart": {
+    "$oid": "6575aa5f913b79f425a373f9"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65768dbb913b79f425a3841d"
+  },
+  "authentication": {
+    "email": "admin@dts.com.vn",
+    "password": "$2b$10$J5jMelcEfEF8Rw9r9Vis5uBpq65rtQJuwSqhVd1VqiUTSTlZeLuU6",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Test",
+    "name": "Admin",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0946890688"
+  },
+  "cart": {
+    "$oid": "65768dbb913b79f425a3841e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65869beb913b79f425a4dd2c"
+  },
+  "authentication": {
+    "email": "gfjhhfjgfj@gmail.com",
+    "password": "$2b$10$v3FeTnnAnpYE7WqtZpwapecNzfcE08LxpwUnTzIxWiHPANwSdeE2i",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "hfdhfdhfdhfgd",
+    "name": "hfdhfgdhfdhfdg",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0355555555"
+  },
+  "cart": {
+    "$oid": "65869beb913b79f425a4dd2d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a804e913b79f425a520d6"
+  },
+  "authentication": {
+    "email": "nguyenkhactrong01@gmail.com",
+    "password": "$2b$10$3JwGM.Qny0aT3Ezl3xNNXep9B4FqGJ7nYWQApC0yGyOEJ8M6OSa7C",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Nguyễn Khắc",
+    "name": "Trọng",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0333399778"
+  },
+  "cart": {
+    "$oid": "658a804e913b79f425a520d7"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ba63b913b79f425a5374d"
+  },
+  "authentication": {
+    "email": "hunghd050220@gmail.com",
+    "password": "$2b$10$1C/Q5srLxFBhkI0Q6A0ADedbatpLvRYH3BUki1lgqCxPNSy2Oaq8C",
+    "avatar": null
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Hung",
+    "name": "HGG",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0333399778"
+  },
+  "cart": {
+    "$oid": "658ba63b913b79f425a5374e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64585ba1b565d4c7321a54d0"
+  },
+  "authentication": {
+    "email": "admin@dts.com.vn",
+    "password": "$2b$10$hhebDJbzWySQaYnzLMT7qOX3bTaTeTA0rQaocISXmNjoMRauQ9zPy",
+    "avatar": null,
+    "role": 3
+  },
+  "generalInformation": {
+    "surnameAndMiddleName": "Admin",
+    "name": "Meta",
+    "gender": "Ông",
+    "dayOfBirth": null,
+    "address": null,
+    "phoneNumber": "0329143036"
+  },
+  "cart": {
+    "$oid": "64585ba1b565d4c7321a54d1"
+  },
+  "__v": 0,
+  "createdAt": 1699590237,
+  "permissions": [
+    "65825c39bb29663b7ee4f3f2",
+    "65825ebc30741264651716c4",
+    "65825ed030741264651716c7",
+    "65825ee230741264651716ca",
+    "65825ef530741264651716cd",
+    "65825f0430741264651716d0",
+    "65825f1430741264651716d3",
+    "65825f2c30741264651716d6",
+    "65825f3d30741264651716d9"
+  ]
+}]

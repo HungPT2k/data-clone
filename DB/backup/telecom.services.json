@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "63c50d91a555ee592aa9fe6e"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/2a0f18a6c77d316c6938c6229aa20fb2",
+  "key": "lat 3420",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50d9aa555ee592aa9fe76"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/54f5988d27ffabe14da40112b1acbe0a",
+  "key": "lat 5420",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50da0a555ee592aa9fe7e"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/8bb3d124a837beb0f02723ef5256014a",
+  "key": "lat 7320",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50da6a555ee592aa9fe86"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/e604dd2053e03eb470dd6df270b4a00b",
+  "key": "lat 7420",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50dafa555ee592aa9fe8e"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/2c3029597c3a4a250224a3f2ba40b243",
+  "key": "mr36",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50db3a555ee592aa9fe96"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/26bca2cf0e0e1612e4c4bbc2dbbb3783",
+  "key": "mr44",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50db8a555ee592aa9fe9e"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/53aeedaea6f1f8454c3fb5f0bbbc12bd",
+  "key": "mr46",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50dc0a555ee592aa9fea6"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/5b2553cd1c8a690fbcf103e75ca09e7d",
+  "key": "mr56",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50dc6a555ee592aa9feae"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/cebeef90a467a8a76b93ee86ba468cf5",
+  "key": "palo 220",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50dcca555ee592aa9feb6"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/2b24c5052eaece641e479d2b08fa406d",
+  "key": "palo 220r",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50dfca555ee592aa9febe"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/901ff63b3102fa7e57684588ddf02b2a",
+  "key": "palo 440",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50e05a555ee592aa9fec6"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/5c5319cfe1a9731f54a6b73921f3d356",
+  "key": "pre 3660",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50e0ba555ee592aa9fece"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/f77f963b0db4d081fe0eae70440194e2",
+  "key": "pre 5820",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50e10a555ee592aa9fed6"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/e583f4f852116df3d3b2a3361144da8a",
+  "key": "r250",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50e15a555ee592aa9fede"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/1c1e451f8b8fd5eb7794323c3488d1c8",
+  "key": "r350",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50e24a555ee592aa9fee6"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/c8a162c87f2c103e362ec7bd6dff484f",
+  "key": "r450",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50e29a555ee592aa9feee"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/1abda2044a4d66aff0f3c7d2d170e34e",
+  "key": "t40",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50e2ea555ee592aa9fef6"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/d1ab9bfc7d009a722ccb1263ce6d8921",
+  "key": "t150",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50e3ba555ee592aa9fefe"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/5cd6685431c8cfd4a776be649b07d389",
+  "key": "t350",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50e40a555ee592aa9ff06"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/39d6ee4f3ffc7275dd7790a70d1db730",
+  "key": "t550",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50e5da555ee592aa9ff0e"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/3964ec7c3ddc1df2dd05b0ebd9a21e95",
+  "key": "trend free",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50e62a555ee592aa9ff16"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/09ef647502df96222ea70f5f87ac9b4a",
+  "key": "trend max",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50e6ba555ee592aa9ff1e"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/41008ff66c6c37955038aec68d598b06",
+  "key": "vee ent plu",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50e70a555ee592aa9ff26"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/d95981d3d2f3153d7919152385c702a5",
+  "key": "vee ent",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c50e75a555ee592aa9ff2e"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/f634260f678274f8273fd7d7a9569ae6",
+  "key": "vee stan",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63f87785f7b1a22ff4b502fa"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/b78e0d60cf8dd7c618173d311e827de4",
+  "key": "M365 Business Basic",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63f88fbbf7b1a22ff4b50374"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/cd80d2fa8efb8998e46efb51fed87d4b",
+  "key": "M365 Business basic",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63f88fc5f7b1a22ff4b5038d"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/191c0e78679654da60bc146b41cf6144",
+  "key": "M365 Business standard",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63f88fd0f7b1a22ff4b503a5"
+  },
+  "thumbnail": "hhttps://graph.metaserv.vn/public/service/thumbnails/6f4940e82d69081ce6694b8a29572c0f",
+  "key": "M365 Business Premium",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63f890b9f7b1a22ff4b503de"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/6186092efdaa9be37cbd7b811b7b3ad3",
+  "key": "M365 E3",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63f890c1f7b1a22ff4b503e6"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/7920387b17eaef0aa041df65874c928e",
+  "key": "M365 E5",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63f890ccf7b1a22ff4b503ee"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/8c193f23bf15633c3ef99397f2b6f092",
+  "key": "M365 App for business",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63f890ecf7b1a22ff4b503f6"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/4554701a13b90dfeb271af55ed3ed30c",
+  "key": "M365 F3",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63f89358f7b1a22ff4b50437"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/9feb5f0771bacc58a1c6e0a08c4009d9",
+  "key": "GG Starter",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63f89366f7b1a22ff4b5043f"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/46fceef6de7de9f24ebcec5e39290791",
+  "key": "GG Standard",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63f8936ef7b1a22ff4b50447"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/83a10cd34b2180e19b24d736cc477da0",
+  "key": "GG Plus",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63fb8ccbf7b1a22ff4b51161"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/0be87bac712f8fcef8b19f4602887554",
+  "key": "AWS",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63fb8d7ff7b1a22ff4b511af"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/e727777522f224b2890cc96b60baff4b",
+  "key": "aws 2",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63fb8d85f7b1a22ff4b511b7"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/e0f007c38eac930e4bb3d76cd4a0ba8b",
+  "key": "aws 3",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63fb8e2ef7b1a22ff4b511ee"
+  },
+  "thumbnail": "https://graph.metaserv.vn/public/service/thumbnails/0f635bdb5a1a9dc062ca25c4be5350be",
+  "key": "aws 4",
+  "trademark": "632c1e602c7e1d4aaf24a0c9",
+  "__v": 0
+}]

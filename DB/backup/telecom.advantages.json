@@ -1,0 +1,616 @@
+[{
+  "_id": {
+    "$oid": "630f339abdccf160d9d47d09"
+  },
+  "title": "Toàn quyền quản trị",
+  "content": "Doanh nghiệp có toàn quyền kiểm soát việc phân phối nội dung với giao diện quản lý trực quan và chi tiết. Nền tảng tự phục vụ cho phép doanh nghiệp định cấu hình, kiểm tra và triển khai cấu hình CDN Pro vào sản xuất trong vài phút.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630f33a8bdccf160d9d47d0e"
+  },
+  "title": "Nâng cấp dễ dàng",
+  "content": "Tạo dịch vụ nhanh, nâng cấp tài nguyên, cấu hình & không gian lưu trữ không tốn nhiều thời gian",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "632001d8bdccf160d9d4cb38"
+  },
+  "title": "Tính bảo mật và riêng tư cao",
+  "content": "Các hoạt động trên đám mây riêng không có sẵn hay không dùng để pubilc công cộng và các tài nguyên được chia sẻ từ các cụm tài nguyên riêng. biệt. Do vậy, hệ thống Private cloud thường đảm bảo tính bảo mật và riêng tư cao.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "632001febdccf160d9d4cb46"
+  },
+  "title": " API tích hợp nhanh chóng",
+  "content": "CDN Pro cung cấp giao diện API để dễ dàng tự động hóa quy trình công việc và tích hợp vào vòng đời phát triển phần mềm của doanh nghiệp, mang đến khả năng kiểm soát chi tiết cao đối với việc quản lý và lưu vào bộ nhớ đệm nội dung dựa trên nhu cầu ứng dụng.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6320023fbdccf160d9d4cb73"
+  },
+  "title": "Tiết kiệm chi phí",
+  "content": "Nội dung được lưu vào bộ nhớ đệm trên mạng CDN Pro giúp giảm nhu cầu và chi phí truy xuất nội dung từ nguồn. Các máy chủ biên CDN Pro được nhóm theo chi phí. Điều này cho phép doanh nghiệp chọn các nhóm máy chủ phù hợp nhất với yêu cầu phân phối và ngân sách.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6320087fbdccf160d9d4cccd"
+  },
+  "title": "Truy cập từ xa",
+  "content": "Có thể truy cập, quản lý cũng như chia sẻ dữ liệu ở bất cứ đâu thông qua các thiết bị như smart phone, máy tính bảng, laptop có kết nối mạng.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "632008bcbdccf160d9d4cd01"
+  },
+  "title": "Tính sẵn sàng cao",
+  "content": "Hệ thống Cloud Server có cơ chế tự theo dõi trạng thái của các Server, hệ thống tự động chuyển đổi giữa các server khi mà một trong các Server gặp sự cố.  Nghĩa là một khi một Sever trong Cloud  gặp sự cố không thể kết nối, hệ thống sẽ tự động chuyển dữ liệu trong server hỏng đó qua những tài nguyên khác trong Cloud.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "632047f1bdccf160d9d4d7fd"
+  },
+  "title": "Bảo mật nâng cao",
+  "content": "Áp dụng biện pháp bảo mật nhiều lớp từ lớp ảo hóa trên hệ thống tới các lớp bảo vệ ở trung tâm dữ liệu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fd64a555ee592aaa06c8"
+  },
+  "title": "Giải quyết vấn đề chung",
+  "content": "AWS là một nền tảng của các dịch vụ. Những vấn đề chung như là cân bằng tải(load balanceing), hàng đợi(queuing), và lưu trữ tiệp tin được xử lý bởi dịch vụ AWS. Bạn không cần phải có một đội ngũ hùng hậu để giải quyết vấn đề đó. Nhiệm vụ chính của bạn là chọn đúng dịch vụ để xây dựng các hệ thống phức tạp. Vì vậy hãy để AWS quản lí các dịch vụ trong khi đó bạn chỉ cần tập trung vào khách hàng của mình.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fd70a555ee592aaa06cd"
+  },
+  "title": "Khả năng mở rộng",
+  "content": "Khả năng tự mở rộng(scalability) giúp khách hàng giải quyết vấn về tải trọng của thiệt. Khách hàng có thể mở rộng từ 1 máy ảo đến hàng nghìn máy ảo. Bộ nhớ có thể tăng từ gigabytes đên pegabytes, và không cần dự đoán tải trọng trong năm tới.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fd86a555ee592aaa06d2"
+  },
+  "title": "Chi phí thấp",
+  "content": "AWS không ngừng nâng cấp cơ sở hạ tầng toàn cầu của mình. Do đó AWS được hưởng lợi từ qui mô kinh tế. Là khách hàng chắc chắn sẽ được hưởng lợi từ hiệu ứng này.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fd92a555ee592aaa06d7"
+  },
+  "title": "Thời gian thực",
+  "content": "Google Workspace cho doanh nghiệp bao gồm hàng loạt các ứng dụng cộng tác được nâng cấp từ các công cụ dành cho người dùng cá nhân. Tính năng này đặc biệt có giá trị trong thời điểm làm việc online, cộng tác từ xa. Với tính năng đồng chỉnh sửa trong thời gian thực của Google Workspace, các nhóm có thể cùng chỉnh sửa một bản trang tài liệu Docs, 1 Trang tính Sheet hoặc PowerPoint cùng lúc.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fd99a555ee592aaa06dc"
+  },
+  "title": "Lưu trữ và chia sẻ",
+  "content": "Mỗi người dùng sẽ có một tài khoản Drive để lưu trữ tài liệu, ghi chú, bản nháp và các tệp khác với quyền riêng tư. Ngoài ra, mỗi nhóm sẽ có một Team Drive riêng. Mọi người có thể chia sẻ các tài liệu mà các thành viên khác trong nhóm cần truy cập. Với các tệp Drive cá nhân bạn cũng có thể làm được điều này nhưng phải làm thủ công. Bạn phải cấp từng quyền cho từng người được chia sẻ tệp đó. Việc này rất mất thời gian, ví dụ trong trường hợp bạn quên chia sẻ cho 1 người, họ phải yêu cầu quyền truy cập và đợi bạn xác nhận mới có thể vào được tệp.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fda1a555ee592aaa06e2"
+  },
+  "title": "Bảo mật điểm cuối",
+  "content": "Bảng điều khiển dành cho quản trị viên cho phép bạn kiểm soát các tài khoản Google Workspace. Quản lý điểm cuối cho phép bạn kiểm soát thiết bị nào có thể truy cập các tài khoản đó. Với Quản lý điểm cuối trong Google Workspace, bạn có thể phân phối ứng dụng trên thiết bị di động nhanh chóng trên quy mô lớn. Bạn cũng có thể kiểm tra việc sử dụng, quản lý cài đặt bảo mật và giới hạn quyền truy cập trên bất kỳ thiết bị điểm cuối nào. Nếu thiết bị bị mất hoặc bị lấy cắp, bạn có thể xóa dữ liệu bí mật từ xa bằng cách xóa thiết bị hoặc tài khoản.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fda1a555ee592aaa06e4"
+  },
+  "title": "Bảo mật điểm cuối",
+  "content": "Bảng điều khiển dành cho quản trị viên cho phép bạn kiểm soát các tài khoản Google Workspace. Quản lý điểm cuối cho phép bạn kiểm soát thiết bị nào có thể truy cập các tài khoản đó. Với Quản lý điểm cuối trong Google Workspace, bạn có thể phân phối ứng dụng trên thiết bị di động nhanh chóng trên quy mô lớn. Bạn cũng có thể kiểm tra việc sử dụng, quản lý cài đặt bảo mật và giới hạn quyền truy cập trên bất kỳ thiết bị điểm cuối nào. Nếu thiết bị bị mất hoặc bị lấy cắp, bạn có thể xóa dữ liệu bí mật từ xa bằng cách xóa thiết bị hoặc tài khoản.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fdafa555ee592aaa06e9"
+  },
+  "title": "Chất lượng dịch vụ quốc tế",
+  "content": "Ping tới Hong Kong dưới 100ms, tới bờ tây nước Mỹ dưới 220ms.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fdb6a555ee592aaa06ef"
+  },
+  "title": "Truyền dữ liệu",
+  "content": "Truyền dữ liệu 99.9% đến hệ thống ODS và Gateway Internet.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fdbca555ee592aaa06f4"
+  },
+  "title": "Kết nối ổn định",
+  "content": "Kết nối trực tiếp, kết nối riêng, không dùng chung, ổn định 24/24.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fdc4a555ee592aaa06f9"
+  },
+  "title": "Tối ưu quản trị tập trung",
+  "content": "Vận hành & giám sát hệ thống mạng hiệu quả.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fdcca555ee592aaa06fe"
+  },
+  "title": "Đảm bảo ổn định",
+  "content": "Tận dụng, tối ưu băng thông cho việc chuyển các gói tin, dữ liệu tới điểm cần một cách hiệu quả nhất.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fdd2a555ee592aaa0703"
+  },
+  "title": "Tiết kiệm chi phí ",
+  "content": "Giảm chi phí đầu tư, vận hành hệ thống & tiết kiệm nguồn lực nhân sự khi sử dụng.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fde1a555ee592aaa0708"
+  },
+  "title": "Hạ tầng tiêu chuẩn ",
+  "content": "Hệ thống máy chủ xây dựng trên trung tâm dữ liệu tiêu chuẩn quốc tế TIA 942-2005.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fde7a555ee592aaa070d"
+  },
+  "title": "Dung lượng lớn",
+  "content": "Hoàn toàn có thể mở rộng dung lượng lưu trữ & lưu lượng truy cập",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fdeea555ee592aaa0712"
+  },
+  "title": "Giám sát an toàn",
+  "content": "Có đội ngũ giám sát, hệ thống cảnh báo tự động khi gặp sự cố",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fe05a555ee592aaa071a"
+  },
+  "title": "Tốc độ tối ưu",
+  "content": "Khởi tạo nhanh, nâng cấp mở rộng dễ dàng theo nhu cầu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fe3aa555ee592aaa0728"
+  },
+  "title": "Nhận biết thương hiệu",
+  "content": "Giúp khách hàng nhanh chóng nhận diện tên miền chuyên nghiệp, gia tăng giá trị thương hiệu của công y",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fe40a555ee592aaa072d"
+  },
+  "title": "Tối ưu hóa tìm kiếm",
+  "content": "Dễ dàng được tìm kiếm trên internet & đạt được thứ hạng cao hơn",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fe46a555ee592aaa0732"
+  },
+  "title": "Tiết kiệm chi phí",
+  "content": "Chi phí đầu tư rẻ với khoảng vài trăm nghìn đồng, tùy thuộc vào nhu cầu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fe53a555ee592aaa0737"
+  },
+  "title": "Tận dụng hạ tầng điện toán đám mây",
+  "content": "Microsoft 365 cung cấp dịch vụ thuê bao tới khách hàng trên nền tảng điện toán đám mây của hãng.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fe58a555ee592aaa073c"
+  },
+  "title": "Đơn giản hóa",
+  "content": "Microsoft cung cấp, đảm bảo sao lưu dữ liệu liên tục, tối giản hóa việc vận hành & quản trị thông qua 1 portal admin, khả năng mở rộng không giới hạn. ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fe5da555ee592aaa0741"
+  },
+  "title": "Truy cập linh hoạt",
+  "content": "Người dùng hoàn toàn có thể truy cập ứng dụng, sử dụng dịch vụ ở mọi nơi, mọi lúc.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fe80a555ee592aaa0747"
+  },
+  "title": "Đội ngũ chuyên gia",
+  "content": "Đội ngũ kỹ thuật chuyên nghiệp, chuyên môn tốt & tận tình hỗ trợ 24/7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fe85a555ee592aaa074c"
+  },
+  "title": "Đa dạng & linh hoạt",
+  "content": "Đa dạng hóa các dịch vụ quản trị & giám sát hạ tầng máy chủ, tư vấn thiết bị, linh hoạt theo nhu cầu của khách hàng",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fe8da555ee592aaa0751"
+  },
+  "title": "Chính hãng",
+  "content": "Thiết bị từ các nhà cung cấp hàng đầu thế giới: HP, Cisco, IBM, Dell,…",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fe9ca555ee592aaa0759"
+  },
+  "title": "Hỗ trợ 24x7x365",
+  "content": "Hỗ trợ kỹ thuật remote từ xa 24x7x365 với đội  ngũ kỹ thuật chuyên môn cao.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fea2a555ee592aaa075e"
+  },
+  "title": "Tiết kiệm thời gian",
+  "content": "Rút ngắn thời gian triển khai hệ thống công nghệ thông tin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5feaaa555ee592aaa0763"
+  },
+  "title": "Sao lưu mọi loại dữ liệu",
+  "content": "Sao lưu tất cả các loại dữ liệu: Tập tin, cơ sở dữ liệu, hệ điều hành, máy ảo, máy vật lý lên hạ tầng lưu trữ điện toán đám mây của Viettel IDC",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5feafa555ee592aaa0768"
+  },
+  "title": "Tự động lập lịch",
+  "content": "Tự động sao lưu theo giờ, ngày, tuần, tháng, năm. Lập lịch xoay vòng, thiết lập sao lưu vào giờ cố định đã lập,…",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5feb4a555ee592aaa076d"
+  },
+  "title": "Lưu trữ phiên bản",
+  "content": "Hệ thống lưu trữ nhiều phiên bản (điểm phục hồi) của dữ liệu, đảm bảo an toàn ngay cả khi dữ liệu bị hỏng do virus",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fed1a555ee592aaa0772"
+  },
+  "title": "Bảo mật",
+  "content": "Tính bảo mật & an toàn thông tin của các thiết bị Router Cisco được các chuyên gia đánh giá rất cao & luôn được xếp hạng cao nhất.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fed5a555ee592aaa0777"
+  },
+  "title": "Ổn định",
+  "content": "Công nghệ cao giúp thiết bị luôn ổn định & không bị ảnh hưởng bởi yếu tố bên ngoài, đảm bảo hệ thống mạng phục vụ người dùng liên tục với tốc độ cao.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fedca555ee592aaa077c"
+  },
+  "title": "Tối ưu hóa",
+  "content": "Cisco liên tục cập nhật phần mềm nâng cấp, đi kèm với các tiện ích ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fee2a555ee592aaa0781"
+  },
+  "title": "Kết nối",
+  "content": "Switch mạng Cisco để thiết lập giữa mạng ảo với hai cổng tương ứng hoàn toàn sẽ không gây ảnh hưởng đến những băng thông mạng ở trên các cổng khác, giúp mạng LAN hoạt động hiệu suất cực cao, truyền tải dữ liệu như định dạng video, text,.. mượt mà & cực tốt.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fef7a555ee592aaa078d"
+  },
+  "title": "Bảo mật thông tin",
+  "content": "Tính bảo mật & an toàn thông tin của các thiết bị Switch Cisco được các chuyên gia đánh giá rất cao & luôn được xếp hạng cao nhất.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5fefda555ee592aaa0792"
+  },
+  "title": "Độ bền",
+  "content": "Switch mạng Cisco được sản xuất từ những chất liệu cao cấp,có khả năng chống nhiễu và chống cháy cực tốt, nên có tuổi thọ rất cao. Công nghệ lưu trữ cùng với công nghệ Forward được dùng để thực hiện được CRC và bảo đảm sự toàn vẹn của mọi gói dữ liệu Forward.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5ff0ba555ee592aaa0798"
+  },
+  "title": "Bảo mật mạng",
+  "content": "Tính bảo mật & an toàn thông tin của các thiết bị Cisco được các chuyên gia đánh giá rất cao & luôn được xếp hạng cao nhất.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5ff0fa555ee592aaa079d"
+  },
+  "title": "Công nghệ",
+  "content": "AP Cisco Meraki trang bị các giải pháp Cisco hỗ trợ triển khai linh hoạt và dễ dàng trên hệ thống mạng mà không cần bộ điều khiển vật lí, lý tưởng để sử dụng tại các hệ thống quy mô vừa và nhỏ.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5ff16a555ee592aaa07a2"
+  },
+  "title": "Hiệu năng",
+  "content": "Hỗ trợ chuẩn wifi mới nhất để AP Cisco Meraki tăng hiệu suất cao hơn, khả năng truy cập lớn hơn và mạng mật độ cao hơn.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5ff22a555ee592aaa07a8"
+  },
+  "title": "Công nghệ kiến trúc",
+  "content": "Phần cứng của Palo Alto được thiết kế để xử lý các tác vụ một cách song song, mỗi tác vụ sẽ được xử lý riêng biệt bởi từng CPU. Palo Alto tách biệt Control Plane và Data Plane giúp nó có hiệu năng xử lý cực cao ngay cả khi chạy hàng loạt tác vụ nặng như nhận dạng ứng dụng, quét virus, bật chức năng IPS hay ngay cả khi giải mã SSL/SSH, và hơn thế là giúp nó chống chọi với các cuộc tấn công tốt hơn.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5ff28a555ee592aaa07ad"
+  },
+  "title": "Tính năng bảo mật",
+  "content": "Tường lửa thế Palo Alto Networks hạn chế tấn công bằng cách hạn chế các ứng dụng, người sử dụng và các nhóm thích hợp. Những tính năng như: Phòng ngừa mối đe dọa/ URL Filtering/ WildFire/ Bảo mật DNS/ Bảo mật IoT",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5ff2ea555ee592aaa07b2"
+  },
+  "title": "Kiểm soát",
+  "content": "Tường lửa Palo Alto có thể xác định và kiểm soát các traffic bị mã hoá với Decryption. Kiểm soát lưu lượng SSL và SSH được mã hóa của bạn và đảm bảo nó không được sử dụng để che giấu hoạt động không mong muốn hoặc nội dung nguy hiểm. Sử dụng giải mã và kiểm tra dựa trên chính sách, bạn có thể xác nhận rằng SSL và SSH chỉ đang được sử dụng cho mục đích kinh doanh, thay vì để phát tán các mối đe dọa hoặc truyền dữ liệu trái phép.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5ff3ca555ee592aaa07b7"
+  },
+  "title": "Bảo mật dự đoán",
+  "content": "Quét dự đoán để kiểm tra các phần mềm độc hại ẩn; chống lại phần mềm độc hại (Malware)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5ff40a555ee592aaa07bc"
+  },
+  "title": "Tính năng",
+  "content": "Bảo vệ tập tin trước Ransomware; Đảm bảo tập tin được xóa hoàn toàn; Bảo vệ sự riêng tư; Tối ưu hóa hiệu quả sử dụng máy tính",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5ff45a555ee592aaa07c1"
+  },
+  "title": "Hỗ trợ",
+  "content": "Sự hỗ trợ của TrendMicro được tách thành Hỗ trợ Tiêu chuẩn và Hỗ trợ đặc biệt, cho phép nhận được sự giúp đỡ từ nhân viên cả ngày lẫn đêm qua điện thoại. Tuy nhiên hỗ trợ tiêu chuẩn vẫn hoạt động từ thứ Hai đến thứ Sáu, từ 5 giờ sáng đến 8 giờ tối theo giờ tiêu chuẩn của Thái Bình Dương.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5ff52a555ee592aaa07c7"
+  },
+  "title": "Hỗ trợ từ hãng",
+  "content": "Các bản cập nhật, chương trình hỗ trợ của Dell hoàn toàn miễn phí, Dell cũng cung cấp một trang web cực kỳ trực quan để tìm các bản cập nhật cho sytems. Ngoài ra Dell Pro Support & Pro Support Plus được coi là gói dịch vụ tốt nhất hiện nay.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5ff59a555ee592aaa07cc"
+  },
+  "title": "Tin cậy",
+  "content": "Dell liên tục cải thiện máy chủ bằng các công nghệ & dòng sản phẩm mới, hạn chế tối đa các lỗi phát sinh khách hàng có thể gặp phải.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5ff5fa555ee592aaa07d1"
+  },
+  "title": "Giá cả",
+  "content": "Giá cả phải chăng đến từ chiến lược tối ưu từ Dell. Các thiết bị hãng Dell luôn được ưu đãi tốt nhất cho khách hàng.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5ff68a555ee592aaa07d7"
+  },
+  "title": "Công nghệ ảo hóa",
+  "content": " Một nền tảng toàn diện, đã được chứng minh là hoàn hảo nhất, VMware mang đến sự ổn định cao hơn, năng suất vượt trội và hiệu suất vượt xa những giải pháp ảo hóa khác trên thị trường. Công nghệ ảo hóa ưu việt của VMware được công nhận là được sử dụng phổ biến nhất trên thế giới bởi các nhà chuyên gia phân tích công nghệ.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5ff7aa555ee592aaa07dd"
+  },
+  "title": "Tính sẵn sàng ổn",
+  "content": "Khả năng sẵn sàng cao của các ứng dụng. Với công nghệ ảo hóa của VMware tích hợp High Availability (tính sẵn sàng cao) và fault tolerance ( khả năng chịu lỗi) vào ngay nền tảng của khách hàng để bảo vệ các ứng dụng ảo hóa của Doanh nghiệp. Nhờ các tính năng trên nên node hoặc server không bao giờ bị lỗi, tất cả máy ảo tự động khởi động trên một máy chủ khác mà không có thời gian downtime (thời gian ngừng hoạt động) và không bị mất dữ liệu.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5ff7fa555ee592aaa07e2"
+  },
+  "title": "Dễ dàng & nhanh chóng",
+  "content": "Cài đặt dễ dàng theo hướng dẫn bằng wizard (hướng dẫn bằng thuật sĩ) giúp cho việc cài đặt và cấu hình không còn phức tạp nữa. Doanh nghiệp có thể nâng cấp và chạy thêm ứng dụng của bên thứ ba vào.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5ff85a555ee592aaa07e7"
+  },
+  "title": "Sao lưu và phục hồi",
+  "content": "Đảm bảo dữ liệu của Doanh nghiệp được sao lưu và phục hồi theo các điều kiện của Doanh nghiệp với nhiều tùy chọn sao lưu và khôi phục chi tiết. Khả năng khôi phục tức thời, giúp doanh nghiệp vận hành liên tục và không bị gián đoạn dù có sự cố xảy ra.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5ff8aa555ee592aaa07ec"
+  },
+  "title": "Tự động hóa",
+  "content": " Chuẩn bị, kiểm tra và điều phối chiến lược khôi phục sau thảm họa (Disaster Recovery - DR) của bạn để bảo vệ các ứng dụng quan trọng.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c5ff96a555ee592aaa07f2"
+  },
+  "title": "Bảo mật sao lưu",
+  "content": "Quản lý hiệu quả các bản sao lưu của Doanh nghiệp từ thử nghiệm ảo để đảm bảo rằng các bản sao dữ liệu của bạn có thể khôi phục, an toàn và tuân thủ. Bảo vệ đa dạng các hình thức dữ liệu đầu vào như: hệ điều hành, ứng dụng, file/folder, máy chủ ảo hóa, hệ thống NAS...",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65323ec4d1ab883fbbf9f1c9"
+  },
+  "title": "Phạm vi tiếp cận toàn cầu và dễ dàng mở rộng quy mô",
+  "content": "Với hơn 250 PoP trên toàn thế giới, mạng toàn cầu hiệu suất cao ngay lập tức mở rộng nội dung và chương trình tới mọi người dùng trên internet, giảm hơn 90% khối lượng công việc trên máy chủ gốc. Nội dung được lưu trong bộ nhớ đệm vẫn khả dụng ngay cả khi máy chủ gốc ngừng phản hồi yêu cầu.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65323ed4d1ab883fbbf9f1d5"
+  },
+  "title": "Khả năng realtime",
+  "content": "CDN Pro cung cấp khả năng hiển thị hoàn chỉnh theo thời gian thực về dữ liệu người dùng. Doanh nghiệp có thể nhanh chóng xác định các tắc nghẽn về hiệu suất, điều chỉnh cấu hình và triển khai các thay đổi bất kỳ lúc nào. ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65323f7ed1ab883fbbf9f207"
+  },
+  "title": "An toàn bảo mật",
+  "content": "Mạng phân phối toàn cầu của CDN Pro cung cấp khả năng phòng thủ tự nhiên trước một loạt các cuộc tấn công. Với CDN Pro, nội dung, API và ứng dụng được bảo vệ khi truyền qua các mạng được bảo mật bằng HTTPS. CDN Pro do MetaServ cung cấp với tính năng giảm thiểu WAF và DDoS mang đến khả năng bảo vệ thậm chí còn tốt hơn trước các mối đe dọa nghiêm trọng.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f146913b79f425a27139"
+  },
+  "title": "Dễ dàng mở rộng",
+  "content": "Với hơn 250 PoP trên toàn thế giới, mạng toàn cầu hiệu suất cao ngay lập tức mở rộng nội dung và chương trình tới mọi người dùng trên internet, giảm hơn 90% khối lượng công việc trên máy chủ gốc. Nội dung được lưu trong bộ nhớ đệm vẫn khả dụng ngay cả khi máy chủ gốc ngừng phản hồi yêu cầu.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f42b913b79f425a2722b"
+  },
+  "title": "Bảo vệ thông minh",
+  "content": "Sự kết hợp giữa AI Engine và Smart Rule Engine nhằm dự đoán, chống lại các cuộc tấn công chưa biết và đã biết. Được hỗ trợ bởi nền tảng phân tích dữ liệu lớn, thu thập lượng dữ liệu khổng lồ và các mẫu tấn công/phòng thủ hàng ngày trên đám mây. Cung cấp khả năng bảo vệ chống lại các cuộc tấn công ứng dụng web bao gồm 10 lỗ hổng hàng đầu của OWASP, chẳng hạn như chèn nội dung, truyền tải thư mục, XSS, v.v.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f4d6913b79f425a27298"
+  },
+  "title": "Kiểm soát truy cập",
+  "content": "Kiểm soát truy cập và xác thực giao thức theo quy tắc WAF. Thiết lập whitelist và blacklist. Chặn IP của các cuộc tấn công tần suất cao. Xác minh HTTP tuân thủ tiêu chuẩn. Khớp các yêu cầu có hoặc không có tính năng tấn công dựa trên tính năng cơ sở.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f53a913b79f425a272a1"
+  },
+  "title": "Khôi phục dễ dàng",
+  "content": "Đẩy cấu hình sang môi trường chạy thử để kiểm tra tính hợp lệ và khôi phục cài đặt WAF của doanh nghiệp về phiên bản trước một cách dễ dàng.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f62b913b79f425a272b6"
+  },
+  "title": "Dễ dàng triển khai",
+  "content": "Triển khai dịch vụ nhanh chóng và dễ dàng.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f69a913b79f425a272bb"
+  },
+  "title": "Dễ quản lý",
+  "content": "Tích hợp và quản lý nhiều CDN trong 1 nền tảng chung, giúp doanh nghiệp khắc phục gần như tất cả những vấn đề về bảo mật và truyền tải.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f76a913b79f425a272ca"
+  },
+  "title": " Bảo vệ toàn diện",
+  "content": "Tự động kiểm soát các lượng truy cập đáng ngờ, tạo black list và chặn ngay lập tức. Ngăn chặn tấn công quy mô lớn.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f7af913b79f425a272cf"
+  },
+  "title": "Mở rộng tính năng",
+  "content": "Hình thành giải pháp với Cloud WAF hoặc Quản lý Bot.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f7f8913b79f425a272d4"
+  },
+  "title": "Đánh giá miễn phí",
+  "content": "Đánh giá hệ thống của doanh nghiệp hoàn toàn miễn phí.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f812913b79f425a272d9"
+  },
+  "title": "Cấu hình dễ dàng",
+  "content": "Dễ dàng cấu hình phù hợp với nhu cầu doanh nghiệp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f82c913b79f425a272de"
+  },
+  "title": "Bảo vệ toàn diện",
+  "content": "Quản lý và bảo vệ hệ thống toàn diện, giúp tối ưu và tiết kiệm chi phí.",
+  "__v": 0
+}]

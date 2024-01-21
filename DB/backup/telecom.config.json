@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "654db05d126a4a4b31cb3416"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "key": "hotline",
+  "value": "0963087777",
+  "createdAt": 1699590237
+},
+{
+  "_id": {
+    "$oid": "654db083126a4a4b31cb3418"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "key": "facebook",
+  "value": "https://www.facebook.com/metaserv.vn",
+  "createdAt": 1699590275
+},
+{
+  "_id": {
+    "$oid": "654db0c5126a4a4b31cb341a"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "key": "zalo",
+  "value": "https://zalo.me/1302375979372970781",
+  "createdAt": 1699590341
+},
+{
+  "_id": {
+    "$oid": "6551c7e7c06080c354c4ccc1"
+  },
+  "createdBy": null,
+  "updatedAt": null,
+  "updatedBy": null,
+  "key": "messenger",
+  "value": "http://m.me/108864621843646",
+  "createdAt": 1699858407
+}]

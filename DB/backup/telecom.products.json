@@ -1,0 +1,780 @@
+[{
+  "_id": {
+    "$oid": "630f37e5bdccf160d9d47dbd"
+  },
+  "key": "metaserv-cloud",
+  "category": {
+    "$oid": "6278be6557b91ed23bf454ae"
+  },
+  "intro": "Máy chủ ảo trên đám mây mã nguồn mở",
+  "title": "MetaServ Cloud",
+  "description": "<p><span style=\"color: rgb(34, 34, 34);\">METASERV Cloud là dịch vụ máy chủ ảo (VPS) sử dụng nền tảng điện toán đám mây, do METASERV&nbsp;xây dựng trên hạ tầng Trung tâm dữ liệu, đặt tại trung tâm thành phố Hồ Chí Minh.</span></p><p><br></p><p><span style=\"color: rgb(34, 34, 34);\">Với tiêu chuẩn quốc tế Data Center TIA 942-2005, METASERV cam kết cung cấp một môi trường hạ tầng đầy đủ các thiết bị, hệ thống dự phòng, lưu trữ, sao lưu, cooling, bảo mật tới khách hàng. </span></p><p><br></p><p>Mặc dù chất lượng của dịch vụ METASERV Cloud được xây dựng trên hạ tầng hiện đại, nhưng chi phí dịch vụ được tối ưu, tiết kiệm nhất cho khách hàng của METASERV.</p>",
+  "advantages": [
+    {
+      "$oid": "630f33a8bdccf160d9d47d0e"
+    },
+    {
+      "$oid": "630f339abdccf160d9d47d09"
+    },
+    {
+      "$oid": "632047f1bdccf160d9d4d7fd"
+    }
+  ],
+  "questionsAndAnswers": [
+    {
+      "$oid": "631f04afbdccf160d9d4c59c"
+    },
+    {
+      "$oid": "630f3422bdccf160d9d47d29"
+    },
+    {
+      "$oid": "630f343fbdccf160d9d47d2e"
+    },
+    {
+      "$oid": "630f3460bdccf160d9d47d33"
+    }
+  ],
+  "servicePacks": [
+    {
+      "$oid": "630f35fbbdccf160d9d47d86"
+    },
+    {
+      "$oid": "630f369cbdccf160d9d47d8f"
+    },
+    {
+      "$oid": "630f36febdccf160d9d47da1"
+    },
+    {
+      "$oid": "63215a05bdccf160d9d4deb1"
+    },
+    {
+      "$oid": "63215a8dbdccf160d9d4deba"
+    }
+  ],
+  "tags": [
+    "cloud",
+    "server",
+    "hosting"
+  ],
+  "bonusServices": [
+    {
+      "$oid": "62c13539fa5f053dbb6759ac"
+    },
+    {
+      "$oid": "62c1414dd8c74bd6bfd05519"
+    },
+    {
+      "$oid": "62d67a7da0cbeb8db4a54d2b"
+    },
+    {
+      "$oid": "62d67b42a0cbeb8db4a54d50"
+    },
+    {
+      "$oid": "62d67bfea0cbeb8db4a54d75"
+    }
+  ],
+  "__v": 0,
+  "isContact": false,
+  "banner": "https://graph.metaserv.vn/public/product/banners/3df1c9eed3e79bc3eb20f0d59779a61c"
+},
+{
+  "_id": {
+    "$oid": "630f391dbdccf160d9d47e60"
+  },
+  "key": "metaserv-server",
+  "category": {
+    "$oid": "6278be6557b91ed23bf454ae"
+  },
+  "intro": "Máy chủ ảo trên đám mây",
+  "title": "MetaServ Cloud Server",
+  "description": "<p>METASERV Cloud Server là thuật ngữ dùng để chỉ hệ thống máy chủ đám mây, được xây dựng như một cơ sở hạ tầng ảo, thực hiện chức năng lưu trữ và xử lý thông tin, tương tự như một máy chủ vật lý truyền thống của khách hàng thường dùng.</p><p><br></p><p>Về cơ bản, Cloud Server gần giống như máy chủ ảo Virtual Private Server (VPS). Tuy nhiên, Cloud Server ứng dụng công nghệ điện toán đám mây tiên tiến Cloud Computing, dễ dàng nâng cấp tài nguyên, không cần thực hiện công tác bảo trì. Đặc biệt hơn toàn toàn đủ cung cấp năng lượng cho mọi mô hình phân phối điện toán đám mây từ cơ sở hạ tầng như một dịch vụ (IaaS – Infrastructure as a Service) đến nền tảng như một dịch vụ (PaaS – Platform as a Service) và phần mềm như một dịch vụ (SaaS – Software as a Service).</p><p><br></p><p class=\"ql-align-justify\"><br></p>",
+  "advantages": [
+    {
+      "$oid": "630f33d5bdccf160d9d47d19"
+    },
+    {
+      "$oid": "632001d8bdccf160d9d4cb38"
+    },
+    {
+      "$oid": "632008bcbdccf160d9d4cd01"
+    }
+  ],
+  "questionsAndAnswers": [
+    {
+      "$oid": "63215ef7bdccf160d9d4e001"
+    },
+    {
+      "$oid": "631f04afbdccf160d9d4c59c"
+    },
+    {
+      "$oid": "630f3460bdccf160d9d47d33"
+    }
+  ],
+  "servicePacks": [
+    {
+      "$oid": "630f35fbbdccf160d9d47d86"
+    },
+    {
+      "$oid": "630f369cbdccf160d9d47d8f"
+    },
+    {
+      "$oid": "630f36febdccf160d9d47da1"
+    },
+    {
+      "$oid": "63215a05bdccf160d9d4deb1"
+    },
+    {
+      "$oid": "63215a8dbdccf160d9d4deba"
+    }
+  ],
+  "tags": [
+    "cloud",
+    "server",
+    "hosting"
+  ],
+  "bonusServices": [
+    {
+      "$oid": "62c1414dd8c74bd6bfd05519"
+    },
+    {
+      "$oid": "62c13539fa5f053dbb6759ac"
+    },
+    {
+      "$oid": "62d67a7da0cbeb8db4a54d2b"
+    },
+    {
+      "$oid": "62d67b42a0cbeb8db4a54d50"
+    },
+    {
+      "$oid": "62d67bfea0cbeb8db4a54d75"
+    }
+  ],
+  "__v": 0,
+  "isContact": false,
+  "banner": "https://graph.metaserv.vn/public/product/banners/2807ab49db61fcce6baef5c0201a5f23"
+},
+{
+  "_id": {
+    "$oid": "630f3a55bdccf160d9d47f04"
+  },
+  "key": "metaserv-colocation",
+  "category": {
+    "$oid": "6278be8f57b91ed23bf454b1"
+  },
+  "intro": "Dịch vụ cung cấp không gian đặt máy chủ",
+  "title": "MetaServ Colocation",
+  "description": "<p>METASERV Colocation là dịch vụ cho thuê chỗ đặt máy chủ, thiết bị tại trung tâm dữ liệu tiêu chuẩn quốc tế.</p><p>Khách hàng có thể thuê không gian rack cho các máy chủ hoặc thiết bị, tùy theo số lượng U hoặc Rack mà khách hàng mong muốn.</p>",
+  "advantages": [
+    {
+      "$oid": "63c5fe9ca555ee592aaa0759"
+    },
+    {
+      "$oid": "630f33d5bdccf160d9d47d19"
+    },
+    {
+      "$oid": "632047f1bdccf160d9d4d7fd"
+    }
+  ],
+  "questionsAndAnswers": [
+    {
+      "$oid": "6321a012bdccf160d9d4e227"
+    },
+    {
+      "$oid": "6321a134bdccf160d9d4e22c"
+    }
+  ],
+  "servicePacks": [],
+  "tags": [
+    "data",
+    "center",
+    "colocation",
+    "cloud"
+  ],
+  "bonusServices": [],
+  "__v": 0,
+  "isContact": true,
+  "banner": "https://graph.metaserv.vn/public/product/banners/9f08748cdc3cdfd9feae1745b41738d7"
+},
+{
+  "_id": {
+    "$oid": "630f3ac5bdccf160d9d47f20"
+  },
+  "key": "metaserv-storage",
+  "category": {
+    "$oid": "6278bece57b91ed23bf454b4"
+  },
+  "intro": "Lưu trữ dữ liệu trên đám mây",
+  "title": "MetaServ Cloud Storage",
+  "description": "<p><span style=\"color: rgb(34, 34, 34);\">METASERV Cloud Storage là công nghệ lưu trữ dữ liệu tối ưu được vận hành dựa trên nền tảng hạ tầng có sẵn, giúp tạo ra không gian lưu trữ rộng.</span></p><p>Mọi yêu cầu lưu trữ dữ liệu của khách hàng đều sẽ được đáp ứng, đảm bảo về tính bảo mật, an toàn.</p>",
+  "advantages": [
+    {
+      "$oid": "630f339abdccf160d9d47d09"
+    },
+    {
+      "$oid": "630f33a8bdccf160d9d47d0e"
+    },
+    {
+      "$oid": "63c5fed1a555ee592aaa0772"
+    }
+  ],
+  "questionsAndAnswers": [
+    {
+      "$oid": "630f3422bdccf160d9d47d29"
+    },
+    {
+      "$oid": "630f343fbdccf160d9d47d2e"
+    }
+  ],
+  "servicePacks": [],
+  "tags": [
+    "storage",
+    "cloud"
+  ],
+  "bonusServices": [],
+  "__v": 0,
+  "isContact": true,
+  "banner": "https://graph.metaserv.vn/public/product/banners/61cacd7469685eb331919ec2d38c50cf"
+},
+{
+  "_id": {
+    "$oid": "630f3d30bdccf160d9d4802a"
+  },
+  "key": "metaserv-interconnection",
+  "category": {
+    "$oid": "6278e6168d63969a1118ccb3"
+  },
+  "intro": "Dịch vụ kết nối trong nước và quốc tế",
+  "title": "Kênh truyền & Internet",
+  "description": "<p class=\"ql-align-justify\">Dựa vào nhu cầu kết nối internet (tốc độ, băng thông trong nước &amp; quốc) của khách hàng, METASERV hiện đang cung cấp 2 dịch vụ kênh truyền:</p><p class=\"ql-align-justify\"><br></p><ol><li class=\"ql-align-justify\">Internet thuê kênh riêng - Internet Leased-Line (ILL).</li><li class=\"ql-align-justify\">Internet băng thông rộng - Fiber To The Home (FTTH).</li></ol>",
+  "advantages": [
+    {
+      "$oid": "63c5fdafa555ee592aaa06e9"
+    },
+    {
+      "$oid": "63c5fdb6a555ee592aaa06ef"
+    },
+    {
+      "$oid": "63c5fdbca555ee592aaa06f4"
+    }
+  ],
+  "questionsAndAnswers": [
+    {
+      "$oid": "630f3422bdccf160d9d47d29"
+    },
+    {
+      "$oid": "630f343fbdccf160d9d47d2e"
+    },
+    {
+      "$oid": "630f3460bdccf160d9d47d33"
+    }
+  ],
+  "servicePacks": [],
+  "tags": [
+    "connect",
+    "interconnection",
+    "internet"
+  ],
+  "bonusServices": [],
+  "__v": 0,
+  "isContact": true,
+  "banner": "https://graph.metaserv.vn/public/product/banners/2fc2a40bd90ebe6bf47f0437e62627d0"
+},
+{
+  "_id": {
+    "$oid": "630f3dddbdccf160d9d48046"
+  },
+  "key": "metaserv-sd-wan",
+  "category": {
+    "$oid": "6278e6168d63969a1118ccb3"
+  },
+  "intro": "Mạng wan ảo giúp dễ dàng kết nối hệ thống chi nhánh của tổ chức",
+  "title": "SD-WAN",
+  "description": "<p><span style=\"color: rgb(34, 34, 34);\">METASERV SD-WAN là dịch vụ do METASERV phát triển giúp các tổ chức, doanh nghiệp xây dựng mạng WAN ảo có hiệu năng tương đương với kết nối WAN truyền thống bằng cách thay thế một phần hoặc toàn bộ đường kết nối MPLS bằng các đường kết nối khác như Internet, 4G, LTE…, đồng thời cung cấp thêm các tính năng nâng cao nhằm đảm bảo tính an toàn, bảo mật của tổ chức, doanh nghiệp.</span></p><p><br></p><p><span style=\"color: rgb(34, 34, 34);\">METASERV SD-WAN cung cấp cho khách hàng giải pháp thiết lập một mạng WAN hiệu suất cao dựa trên nhiều loại kênh truyền dẫn (MPLS, FTTH, 4G, LTE…). Với mô hình triển khai đa dạng, METASERV SD-WAN giúp khách hàng đạt được độ ổn định khi kết nối các dịch vụ giữa nhiều chi nhánh khác nhau và đặc biệt phù hợp với các tổ chức, doanh nghiệp có nhiều ứng dụng trên nền tảng điện toán đám mây hiện nay.</span></p>",
+  "advantages": [
+    {
+      "$oid": "63c5fdc4a555ee592aaa06f9"
+    },
+    {
+      "$oid": "63c5fdcca555ee592aaa06fe"
+    },
+    {
+      "$oid": "63c5fdd2a555ee592aaa0703"
+    }
+  ],
+  "questionsAndAnswers": [
+    {
+      "$oid": "63c600e5a555ee592aaa081a"
+    },
+    {
+      "$oid": "63c600eea555ee592aaa081f"
+    }
+  ],
+  "servicePacks": [],
+  "tags": [
+    "connect",
+    "wan",
+    "sd"
+  ],
+  "bonusServices": [],
+  "__v": 0,
+  "isContact": true,
+  "banner": "https://graph.metaserv.vn/public/product/banners/9379ac754df39770bf23212333ca14dd"
+},
+{
+  "_id": {
+    "$oid": "630f3eadbdccf160d9d4808a"
+  },
+  "key": "metaserv-domain",
+  "category": {
+    "$oid": "62ffba17f5236e3181af0e3d"
+  },
+  "intro": "Tên miền quốc gia, quốc tế",
+  "title": "MetaServ Domain",
+  "description": "<p class=\"ql-align-justify\">Tên miền (Domain) là địa chỉ của một trang website hoạt động trên Internet, cung cấp dưới một địa chỉ tĩnh, cố định. Nó giúp khách hàng xác định được địa chỉ để truy cập. Tên miền thường gắn liền với tên công ty hoặc thương hiệu của doanh nghiệp mà khách hàng đang sử dụng.</p><p class=\"ql-align-justify\">Dựa vào nhu cầu của từng khách hàng, METASERV sẽ cung cấp tên miền đa dạng, chuyên nghiệp và các đuôi tên miền tương ứng.</p>",
+  "advantages": [
+    {
+      "$oid": "63c5fe3aa555ee592aaa0728"
+    },
+    {
+      "$oid": "63c5fe40a555ee592aaa072d"
+    },
+    {
+      "$oid": "63c5fe46a555ee592aaa0732"
+    }
+  ],
+  "questionsAndAnswers": [
+    {
+      "$oid": "63c6012ea555ee592aaa0842"
+    },
+    {
+      "$oid": "63c60136a555ee592aaa0847"
+    },
+    {
+      "$oid": "63c60145a555ee592aaa084c"
+    },
+    {
+      "$oid": "63c6014ea555ee592aaa0851"
+    }
+  ],
+  "servicePacks": [],
+  "tags": [
+    "hosting",
+    "domain"
+  ],
+  "bonusServices": [],
+  "__v": 0,
+  "isContact": true,
+  "banner": "https://graph.metaserv.vn/public/product/banners/48b0b669449fee4aaa396b73dafb8588"
+},
+{
+  "_id": {
+    "$oid": "631a13dbbdccf160d9d4b78d"
+  },
+  "key": "metaserv-mail-hosting",
+  "category": {
+    "$oid": "62ffba17f5236e3181af0e3d"
+  },
+  "intro": "Dịch vụ Hosting Mail",
+  "title": "MetaServ Mail Hosting",
+  "description": "<p>METASERV Mail Hosting là dịch vụ lưu trữ phục vụ cho việc dùng Email của khách hàng. Email sử dụng sẽ có địa chỉ cấu trúc bao gồm tên thương hiệu doanh nghiệp của khách hàng.</p><p>Dịch vụ Mail Hosting luôn sẳn sàng cho việc gửi và nhận mail của khách hàng ở bất kỳ thời điểm nào, ngay cả khi offline thì máy chủ vẫn hoạt động với vai trò như hộp thư để nhận mail đến. Ngoài ra, dịch vụ METASERV Mail Hosting cho phép khách hàng tùy chỉnh số lượng tài khoản, cấu hình. Điều mà dịch vụ Mail miễn phí không thể đáp ứng.</p>",
+  "advantages": [
+    {
+      "$oid": "63c5fdd2a555ee592aaa0703"
+    },
+    {
+      "$oid": "63c5fdeea555ee592aaa0712"
+    },
+    {
+      "$oid": "63c5fd99a555ee592aaa06dc"
+    }
+  ],
+  "questionsAndAnswers": [
+    {
+      "$oid": "63c60114a555ee592aaa0833"
+    },
+    {
+      "$oid": "63c6011aa555ee592aaa0838"
+    },
+    {
+      "$oid": "63c60124a555ee592aaa083d"
+    }
+  ],
+  "servicePacks": [],
+  "tags": [
+    "cloud"
+  ],
+  "bonusServices": [],
+  "__v": 0,
+  "isContact": true,
+  "banner": "https://graph.metaserv.vn/public/product/banners/8fa133e052cae9c35618d167c4b29ee4"
+},
+{
+  "_id": {
+    "$oid": "631a1400bdccf160d9d4b7a9"
+  },
+  "key": "metaserv-web-hosting",
+  "category": {
+    "$oid": "62ffba17f5236e3181af0e3d"
+  },
+  "intro": "Dịch vụ website hosting",
+  "title": "MetaServ Website Hosting",
+  "description": "<p>Web Hosting là dịch vụ METASERV giúp khách hàng lưu trữ tất cả các trang Website, các thông tin, tư liệu, hình ảnh của nó trên một máy chủ Internet. Web Hosting đồng thời cũng là nơi diễn ra tất cả các hoạt động giao dịch. Trao đổi thông tin giữa Website với người sử dụng Internet và hỗ trợ các phần mềm Internet hoạt động.</p>",
+  "advantages": [
+    {
+      "$oid": "63c5fde1a555ee592aaa0708"
+    },
+    {
+      "$oid": "63c5fde7a555ee592aaa070d"
+    },
+    {
+      "$oid": "63c5fdeea555ee592aaa0712"
+    }
+  ],
+  "questionsAndAnswers": [
+    {
+      "$oid": "63c600faa555ee592aaa0824"
+    },
+    {
+      "$oid": "63c60101a555ee592aaa0829"
+    },
+    {
+      "$oid": "63c6010aa555ee592aaa082e"
+    }
+  ],
+  "servicePacks": [],
+  "tags": [
+    "cloud"
+  ],
+  "bonusServices": [],
+  "__v": 0,
+  "isContact": true,
+  "banner": "https://graph.metaserv.vn/public/product/banners/38eeffaab8b2edc88098f386c2e465b3"
+},
+{
+  "_id": {
+    "$oid": "6321a44dbdccf160d9d4e26b"
+  },
+  "key": "metaserv-server-leasing",
+  "category": {
+    "$oid": "6278be8f57b91ed23bf454b1"
+  },
+  "intro": "Dịch vụ thuê máy chủ",
+  "title": "MetaServ Server Leasing",
+  "description": "<p>METASERV Server Leasing là dịch vụ cho thuê máy chủ vật lý theo yêu cầu cấu hình của khách hàng. Máy chủ sẽ được đặt tại vị trí tương thích tại Trung tâm dữ liệu của METASERV, đi kèm băng thông internet, địa chỉ IP tĩnh, ổn định và hệ thống làm mát, chống cháy nổ theo tiêu chuẩn quốc tế.</p>",
+  "advantages": [
+    {
+      "$oid": "630f339abdccf160d9d47d09"
+    },
+    {
+      "$oid": "630f33a8bdccf160d9d47d0e"
+    }
+  ],
+  "questionsAndAnswers": [
+    {
+      "$oid": "630f3422bdccf160d9d47d29"
+    }
+  ],
+  "servicePacks": [],
+  "tags": [
+    "server"
+  ],
+  "bonusServices": [],
+  "__v": 0,
+  "isContact": true,
+  "banner": "https://graph.metaserv.vn/public/product/banners/e73ada0df1ce6c5fbde580ea214518a1"
+},
+{
+  "_id": {
+    "$oid": "632dd3de2c7e1d4aaf24a79d"
+  },
+  "banner": "https://graph.metaserv.vn/public/product/banners/0638f153be3ce296793a6bc55dcf0503",
+  "key": "metaserv-backup",
+  "category": {
+    "$oid": "6278bece57b91ed23bf454b4"
+  },
+  "intro": "Dịch vụ sao lưu dữ liệu hiện hữu",
+  "title": "MetaServ Cloud Backup ",
+  "description": "<p>Giải pháp cho phép nhân bản môt phần hoặc toàn bộ hệ thống máy chủ CNTT của doanh nghiệp lên hạ tầng điện toán đám mây (Cloud Backup), đảm bảo dự phòng hệ thống ngay cả khi hệ thống chính gặp lỗi hoặc gặp thảm họa. Hệ thống dự phòng có thể hoạt động thay thế hoàn toàn hệ thống chính khi cần thiết.</p><p><br></p><p>Giải pháp của METASERV mang đến tính sẵn sàng cao cho dữ liệu, cho phép khôi phục tức thời, không cần mất hàng giờ để kiểm tra tính toàn vẹn dữ liệu.</p>",
+  "advantages": [
+    {
+      "$oid": "630f339abdccf160d9d47d09"
+    },
+    {
+      "$oid": "630f33a8bdccf160d9d47d0e"
+    }
+  ],
+  "questionsAndAnswers": [
+    {
+      "$oid": "630f3422bdccf160d9d47d29"
+    }
+  ],
+  "tags": [
+    "cloud"
+  ],
+  "isContact": true,
+  "servicePacks": [],
+  "bonusServices": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "633a6008c861145f3e2121b5"
+  },
+  "banner": "https://graph.metaserv.vn/public/product/banners/1f8e23eadb0677e9a7b4492d16a8671b",
+  "key": "metaserv-private-cloud",
+  "category": {
+    "$oid": "6278be6557b91ed23bf454ae"
+  },
+  "intro": "Cung cấp đám mây hạ tầng riêng",
+  "title": "MetaServ Private Cloud",
+  "description": "<p>METASERV Private Cloud là dịch vụ cung cấp mô hình điện toán đám mây riêng biệt, chỉ sử dụng thông qua mạng nội bộ &amp; người dùng trong mạng. Trong đó cung cấp đầy đủ tất cả tài nguyên bao gồm phần cứng, phần mềm phục vụ riêng cho khách hàng.</p><p><br></p><p>Tiết kiệm chi phí phần cứng &amp; tối ưu trong việc quản trị hệ thống là 2 lợi ích lớn nhất khách hàng có được. Bên cạnh đó, khi sử dụng dịch vụ METASERV Private Cloud, khách hàng sẽ có khả năng tự phục vụ, khả năng mở rộng &amp; tùy chỉnh bổ sung từ các tài nguyên cơ sở hạ tầng điện toán.</p>",
+  "advantages": [
+    {
+      "$oid": "630f339abdccf160d9d47d09"
+    },
+    {
+      "$oid": "630f33d5bdccf160d9d47d19"
+    },
+    {
+      "$oid": "632001d8bdccf160d9d4cb38"
+    }
+  ],
+  "questionsAndAnswers": [
+    {
+      "$oid": "633a5f70c861145f3e21213b"
+    },
+    {
+      "$oid": "633a5f64c861145f3e212115"
+    },
+    {
+      "$oid": "6321a134bdccf160d9d4e22c"
+    }
+  ],
+  "tags": [
+    "cloud",
+    "server"
+  ],
+  "isContact": false,
+  "servicePacks": [
+    {
+      "$oid": "630f35fbbdccf160d9d47d86"
+    },
+    {
+      "$oid": "630f369cbdccf160d9d47d8f"
+    },
+    {
+      "$oid": "630f36febdccf160d9d47da1"
+    }
+  ],
+  "bonusServices": [
+    {
+      "$oid": "62c13539fa5f053dbb6759ac"
+    },
+    {
+      "$oid": "62c1414dd8c74bd6bfd05519"
+    },
+    {
+      "$oid": "62d67a7da0cbeb8db4a54d2b"
+    },
+    {
+      "$oid": "62d67b42a0cbeb8db4a54d50"
+    },
+    {
+      "$oid": "62d67bfea0cbeb8db4a54d75"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6553994c913b79f42559bd7f"
+  },
+  "banner": "https://graph.metaserv.vn/public/product/banners/3740d3d67a673bc1a9b85316876d0026",
+  "key": "metaserv-cdn",
+  "category": {
+    "$oid": "6468434654b14217f680c88a"
+  },
+  "intro": "Cung cấp giải pháp bảo mật, tăng tốc và mở rộng quy mô các trang web, ứng dụng.",
+  "title": "CDN",
+  "description": "<p><span style=\"color: rgb(0, 0, 0);\">Mạng phân phối nội dung, còn được gọi là CDN (Content Delivery Network) là mạng máy chủ và trung tâm dữ liệu được phân bổ theo địa lý giúp phân phối nội dung đến người dùng với độ trễ tối thiểu, giảm mức tiêu thụ băng thông, tăng tốc thời gian thực để tối ưu hóa trang web, API và ứng dụng đám mây.</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">MetaServ hợp tác với CDNetwork cung cấp dịch vụ CDN Pro, với mục đích tích hợp bảo mật, tăng tốc và mở rộng quy mô các trang web cũng như ứng dụng trên toàn thế giới cho các doanh nghiệp. CDN Pro thực hiện trên nền tảng Nginx cho phép khách hàng định cấu hình và triển khai nội dung trong vài phút với khả năng hiển thị theo thời gian thực về lưu lượng biên (edge).</span></p>",
+  "advantages": [
+    {
+      "$oid": "630f339abdccf160d9d47d09"
+    },
+    {
+      "$oid": "65323ed4d1ab883fbbf9f1d5"
+    },
+    {
+      "$oid": "65323f7ed1ab883fbbf9f207"
+    },
+    {
+      "$oid": "6320023fbdccf160d9d4cb73"
+    },
+    {
+      "$oid": "632001febdccf160d9d4cb46"
+    },
+    {
+      "$oid": "6567f146913b79f425a27139"
+    }
+  ],
+  "questionsAndAnswers": [
+    {
+      "$oid": "6567f221913b79f425a27176"
+    },
+    {
+      "$oid": "6567f20c913b79f425a27171"
+    },
+    {
+      "$oid": "6567f23a913b79f425a2717b"
+    }
+  ],
+  "tags": [
+    "CDN",
+    "Website",
+    "API"
+  ],
+  "isContact": true,
+  "servicePacks": [],
+  "bonusServices": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567f491913b79f425a2723e"
+  },
+  "banner": "https://graph.metaserv.vn/public/product/banners/da2104cc67cdaa2ade547dc89ce7ac58",
+  "key": "metaserv-waf",
+  "category": {
+    "$oid": "6468434654b14217f680c88a"
+  },
+  "intro": "Cung cấp khả năng bảo vệ chống lại các cuộc tấn công ứng dụng web",
+  "title": "WAF",
+  "description": "<p><span style=\"color: rgb(0, 0, 0);\">WAF là giải pháp dựa trên đám mây giúp doanh nghiệp bảo vệ các ứng dụng web khỏi các cuộc tấn công web độc hại, cung cấp trải nghiệm an toàn và tối ưu cho người dùng. Nó hỗ trợ các quy tắc WAF tích hợp cũng như các quy tắc WAF tùy chỉnh, cho phép khách hàng cấu hình linh hoạt các quy tắc dựa trên nhu cầu kinh doanh. </span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">Giải pháp WAF của CDNetworks vá các lỗi bảo mật trước khi chúng có thể bị khai thác, loại bỏ các lỗ hổng, bảo vệ khỏi các loại tấn công khác nhau và giảm thiểu rủi ro.</span></p>",
+  "advantages": [
+    {
+      "$oid": "6567f42b913b79f425a2722b"
+    },
+    {
+      "$oid": "6567f4d6913b79f425a27298"
+    },
+    {
+      "$oid": "6567f53a913b79f425a272a1"
+    },
+    {
+      "$oid": "63c5fe9ca555ee592aaa0759"
+    }
+  ],
+  "questionsAndAnswers": [
+    {
+      "$oid": "6567f8f3913b79f425a2731f"
+    },
+    {
+      "$oid": "6567f90e913b79f425a27324"
+    },
+    {
+      "$oid": "6567f8d8913b79f425a2731a"
+    }
+  ],
+  "tags": [
+    "CDNetwork",
+    "Security",
+    "WAF",
+    "VPS"
+  ],
+  "isContact": true,
+  "servicePacks": [],
+  "bonusServices": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567fc2a913b79f425a2739f"
+  },
+  "banner": "https://graph.metaserv.vn/public/product/banners/06d753f77e59cebca517fd3443f36625",
+  "key": "metaserv-antiddos",
+  "category": {
+    "$oid": "6468434654b14217f680c88a"
+  },
+  "intro": "Cung cấp các công cụ và giải pháp để ngăn chặn hoặc giảm thiểu tác động của cuộc tấn công DDoS đa lớp",
+  "title": "Anti DDoS",
+  "description": "<p><span style=\"color: rgb(0, 0, 0);\">Anti DDoS là giải pháp thiết lập để bảo vệ trang web, ứng dụng hoặc hệ thống mạng khỏi cuộc tấn công DDoS (Distributed Denial of Service). Anti DDos cung cấp các công cụ và giải pháp để ngăn chặn hoặc giảm thiểu tác động của cuộc tấn công DDoS đa lớp, bao gồm: L3/4 DDoS Protection, L7 DDoS Protection, Access Control, Rate Limiting.</span></p>",
+  "advantages": [
+    {
+      "$oid": "6567f62b913b79f425a272b6"
+    },
+    {
+      "$oid": "6567f69a913b79f425a272bb"
+    },
+    {
+      "$oid": "6567f7af913b79f425a272cf"
+    },
+    {
+      "$oid": "6567f76a913b79f425a272ca"
+    }
+  ],
+  "questionsAndAnswers": [
+    {
+      "$oid": "6567f927913b79f425a27329"
+    },
+    {
+      "$oid": "6567f943913b79f425a2732e"
+    },
+    {
+      "$oid": "6567f97c913b79f425a2733d"
+    }
+  ],
+  "tags": [
+    "CDN",
+    "VPS",
+    "Anti DDos"
+  ],
+  "isContact": true,
+  "servicePacks": [],
+  "bonusServices": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65680671913b79f425a274ce"
+  },
+  "banner": "https://graph.metaserv.vn/public/product/banners/d1dbb0f2e08258448372628d8b193bd0",
+  "key": "metaserv-combo",
+  "category": {
+    "$oid": "6468434654b14217f680c88a"
+  },
+  "intro": "Cung cấp giải pháp tối ưu và bảo mật toàn diện cho hệ thống của doanh nghiệp",
+  "title": "Combo",
+  "description": "<p><span style=\"color: rgb(0, 0, 0);\">MetaServ cung cấp giải pháp tối ưu và bảo mật toàn diện cho hệ thống của doanh nghiệp nhằm chống lại các cuộc tấn công đa lớp như CDN, WAF, DDoS. Giúp doanh nghiệp dễ dàng quản lý, đảm bảo an toàn bảo mật cho dữ liệu doanh nghiệp và tiết kiệm chi phí tối đa.</span></p>",
+  "advantages": [
+    {
+      "$oid": "6567f7f8913b79f425a272d4"
+    },
+    {
+      "$oid": "6567f812913b79f425a272d9"
+    },
+    {
+      "$oid": "6567f82c913b79f425a272de"
+    },
+    {
+      "$oid": "63c5fe9ca555ee592aaa0759"
+    }
+  ],
+  "questionsAndAnswers": [
+    {
+      "$oid": "630f3422bdccf160d9d47d29"
+    },
+    {
+      "$oid": "630f343fbdccf160d9d47d2e"
+    }
+  ],
+  "tags": [
+    "CDN",
+    "VPS",
+    "Anti DDoS",
+    "WAF"
+  ],
+  "isContact": true,
+  "servicePacks": [],
+  "bonusServices": [],
+  "__v": 0
+}]
